@@ -44,8 +44,6 @@ This repository contains a complete pipeline for predicting customer churn using
 
 ---
 
----
-
 ## 🛠️ Getting Started
 
 Follow these steps to set up and run the project locally:
