@@ -69,7 +69,9 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 Open the notebooks from the `notebooks/` folder:
+
 `churn_eda.ipynb` → for exploratory analysis
+
 `churn_modeling.ipynb` → for model training and evaluation
 
 ### 5. View Power BI Dashboard
