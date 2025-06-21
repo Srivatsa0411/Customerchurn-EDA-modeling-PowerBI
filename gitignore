@@ -1,0 +1,42 @@
+# Python virtual environments
+.venv/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.so
+
+# VS Code settings
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.*
+
+# Model artifacts
+*.joblib
+*.pkl
+models/
+
+# Power BI cache or backup
+*.pbix.dat
+*.pbix-bak
+
+# Temporary or backup files
+*.log
+*.tmp
+*.bak
+
+# Data files (optional - comment out if versioning data)
+data/*.csv
+
+# Notebook output exports
+*.nbconvert.ipynb

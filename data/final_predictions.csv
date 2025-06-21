@@ -1,0 +1,1408 @@
+customerID,MonthlyCharges,TotalCharges,tenure,Contract,InternetService,SeniorCitizen,Partner,Dependents,PhoneService,OnlineSecurity,TechSupport,Churn,Predicted_Churn,Churn_Probability
+6614-YWYSC,25.0,1501.75,61,Two year,No,1,1,0,Yes,No,No,0,0,0.022711713
+9546-KDTRB,24.7,465.85,19,Month-to-month,No,0,0,0,Yes,No,No,0,0,0.19653374
+0871-URUWO,102.25,1359.0,13,Month-to-month,Fiber optic,0,1,0,Yes,No,No,1,1,0.786087
+5151-HQRDG,55.05,2030.75,37,Month-to-month,DSL,0,1,0,Yes,Yes,No,0,0,0.16873434
+6624-JDRDS,29.45,161.45,6,Month-to-month,DSL,0,0,0,No,Yes,No,0,0,0.42699575
+3082-VQXNH,29.8,94.4,3,Month-to-month,DSL,0,1,0,No,No,No,0,1,0.4552953
+1309-XGFSN,80.85,4079.55,52,One year,DSL,1,1,1,Yes,No,No,0,0,0.29129705
+9402-ORRAH,91.5,1400.3,15,Month-to-month,Fiber optic,1,0,0,Yes,No,No,0,1,0.78683776
+8663-UPDGF,69.5,1800.05,26,Month-to-month,DSL,0,0,0,Yes,Yes,No,0,0,0.24024402
+0455-ENTCR,85.25,5538.35,66,Two year,DSL,0,1,0,Yes,Yes,Yes,0,0,0.037097316
+2038-OEQZH,86.05,308.1,4,Month-to-month,Fiber optic,0,0,0,Yes,No,No,0,1,0.7682942
+7993-PYKOF,75.0,632.95,8,Month-to-month,Fiber optic,0,1,0,Yes,Yes,No,1,1,0.4468483
+4361-FEBGN,20.15,982.95,48,Two year,No,0,0,0,Yes,No,No,0,0,0.019453982
+3898-BSJYF,73.55,693.3,10,One year,DSL,0,0,1,Yes,Yes,Yes,0,0,0.29720408
+8869-LIHMK,115.1,7334.05,64,Two year,Fiber optic,0,0,0,Yes,Yes,Yes,0,0,0.16550082
+5482-VXSXJ,93.2,2157.3,22,Month-to-month,Fiber optic,0,0,0,Yes,No,No,0,1,0.5422022
+9497-QCMMS,93.55,93.55,1,Month-to-month,Fiber optic,1,0,0,Yes,No,No,1,1,0.94657826
+8587-XYZSF,50.55,3260.1,67,Two year,DSL,0,0,0,Yes,No,Yes,0,0,0.029093586
+1902-XBTFB,89.4,2001.5,22,Month-to-month,Fiber optic,0,0,1,Yes,No,No,1,1,0.6490225
+9614-RMGHA,91.85,5940.85,65,Month-to-month,Fiber optic,0,1,0,Yes,No,No,1,0,0.30786288
+3551-GAEGL,30.4,938.65,34,One year,DSL,0,1,1,No,Yes,No,0,0,0.021739164
+7463-IFMQU,20.05,1423.65,72,Two year,No,0,1,0,Yes,No,No,0,0,0.006935721
+5404-GGUKR,51.35,262.3,5,Month-to-month,DSL,0,0,0,Yes,No,No,0,1,0.6339941
+1751-NCDLI,98.85,4564.9,46,Month-to-month,Fiber optic,1,1,0,Yes,No,No,0,1,0.8201207
+7394-LWLYN,70.15,123.8,2,Month-to-month,Fiber optic,0,0,0,Yes,No,No,0,1,0.7407617
+2027-DNKIV,58.75,2203.1,37,One year,DSL,0,1,1,Yes,Yes,Yes,0,0,0.04450491
+4213-HKBJO,25.7,826.1,33,Two year,No,0,0,0,Yes,No,No,0,0,0.015423342
+1915-OAKWD,19.3,360.35,16,One year,No,0,0,1,Yes,No,No,0,0,0.07009622
+4229-CZMLL,74.9,469.8,6,Month-to-month,Fiber optic,0,0,0,Yes,No,No,1,1,0.7718071
+4640-UHDOS,55.95,734.35,13,Month-to-month,DSL,0,1,1,Yes,No,No,1,0,0.41697267
+3946-JEWRQ,95.2,4563.0,47,One year,Fiber optic,0,1,0,Yes,No,No,0,0,0.42001572
+0488-GSLFR,69.5,69.5,1,Month-to-month,Fiber optic,0,0,0,Yes,No,No,1,1,0.9254893
+4106-HADHQ,80.0,3182.95,39,One year,DSL,0,1,1,Yes,Yes,Yes,1,0,0.21871074
+8041-TMEID,108.5,6991.9,63,Two year,Fiber optic,1,1,0,Yes,Yes,No,0,0,0.14355193
+5863-OOKCL,18.85,163.2,10,Month-to-month,No,0,0,0,Yes,No,No,0,0,0.1931345
+2740-JFBOK,24.0,226.55,10,Month-to-month,No,0,0,0,Yes,No,No,0,0,0.40358657
+2823-LKABH,95.05,1679.4,18,Month-to-month,Fiber optic,0,0,0,Yes,No,Yes,0,1,0.5087227
+8757-TFHHJ,49.8,49.8,1,Month-to-month,DSL,0,0,0,Yes,Yes,No,0,1,0.632921
+0230-WEQUW,56.6,3789.2,66,Two year,DSL,0,1,0,No,Yes,Yes,0,0,0.021166394
+7515-LODFU,20.3,1356.3,69,Two year,No,1,0,0,Yes,No,No,0,0,0.013820103
+9048-JVYVF,69.35,191.35,3,Month-to-month,DSL,0,0,0,Yes,No,Yes,1,1,0.45288247
+3274-NSDWE,19.6,1441.65,68,Two year,No,0,0,0,Yes,No,No,0,0,0.012154507
+0895-LNKRC,19.45,113.5,6,One year,No,0,1,1,Yes,No,No,0,0,0.102488734
+2429-AYKKO,19.85,1434.1,72,Two year,No,0,0,0,Yes,No,No,0,0,0.007066762
+6847-KJLTS,100.4,5749.8,58,Month-to-month,Fiber optic,1,1,0,Yes,No,Yes,0,0,0.37060353
+9408-HRXRK,105.15,4730.9,45,Month-to-month,Fiber optic,0,1,1,Yes,Yes,No,0,1,0.65120965
+5153-LXKDT,110.2,7467.5,68,Two year,Fiber optic,0,1,1,Yes,Yes,No,0,0,0.2508053
+8818-XYFCQ,99.55,3204.65,32,Month-to-month,Fiber optic,0,1,1,Yes,Yes,No,1,1,0.49741563
+6358-LYNGM,74.9,74.9,1,Month-to-month,Fiber optic,0,0,0,Yes,No,No,1,1,0.9171076
+8270-RKSAP,70.5,597.9,9,Month-to-month,Fiber optic,0,0,0,Yes,No,No,0,1,0.70375735
+7909-FIOIY,24.85,434.8,19,Month-to-month,DSL,0,1,1,No,No,No,0,0,0.15904386
+3161-ONRWK,65.85,3928.3,60,One year,DSL,0,1,1,Yes,Yes,Yes,0,0,0.07058978
+6311-UEUME,78.9,2384.15,29,Month-to-month,Fiber optic,0,0,0,Yes,No,No,1,1,0.61684567
+4376-KFVRS,114.05,8468.2,72,Two year,Fiber optic,0,1,1,Yes,Yes,Yes,0,0,0.019683884
+5461-QKNTN,94.3,3953.15,43,Month-to-month,Fiber optic,1,1,0,Yes,No,Yes,0,1,0.48550814
+1062-LHZOD,69.9,69.9,1,Month-to-month,Fiber optic,0,1,1,Yes,No,No,1,1,0.8983538
+6476-YHMGA,76.5,1155.6,15,Month-to-month,DSL,0,1,1,Yes,No,Yes,0,0,0.3045619
+0432-CAJZV,90.7,237.65,3,Month-to-month,Fiber optic,0,0,0,Yes,No,No,0,1,0.78052336
+6651-AZVTJ,99.8,4872.45,49,Month-to-month,Fiber optic,0,1,1,Yes,No,No,1,1,0.74870145
+5348-CAGXB,89.55,1021.75,12,Month-to-month,Fiber optic,0,0,0,Yes,No,No,0,1,0.7872295
+5275-SQEIZ,80.85,80.85,1,Month-to-month,Fiber optic,0,0,0,Yes,No,No,1,1,0.91418755
+1866-ZSLJM,20.5,402.85,21,Month-to-month,No,0,0,0,Yes,No,No,0,0,0.08777326
+7401-RUBNK,74.8,1438.05,18,Month-to-month,Fiber optic,0,1,0,Yes,Yes,No,0,1,0.56488556
+8580-QVLOC,92.45,6440.25,72,Two year,DSL,1,1,1,Yes,Yes,Yes,1,0,0.010277202
+3976-HXHCE,19.3,1414.8,72,Two year,No,0,0,0,Yes,No,No,0,0,0.010989441
+6572-ADKRS,74.8,3548.3,46,Month-to-month,Fiber optic,0,0,0,Yes,No,No,0,0,0.42874655
+2070-FNEXE,76.45,503.6,7,Month-to-month,Fiber optic,1,0,0,Yes,Yes,No,1,1,0.576446
+3262-EIDHV,84.7,5893.9,72,Two year,DSL,0,1,1,Yes,Yes,Yes,0,0,0.0099265445
+1755-FZQEC,19.9,791.15,39,One year,No,0,0,0,Yes,No,No,0,0,0.017088858
+8336-TAVKX,78.45,5682.25,72,Two year,DSL,1,1,0,Yes,Yes,Yes,0,0,0.012125149
+2103-ZRXFN,50.75,50.75,1,Month-to-month,DSL,0,0,0,Yes,No,No,0,1,0.8107718
+0784-ZQJZX,19.9,1529.65,72,Two year,No,0,0,1,Yes,No,No,0,0,0.006322963
+3727-RJMEO,82.85,460.25,6,Month-to-month,Fiber optic,0,1,0,Yes,No,No,1,1,0.8231686
+8896-RAZCR,19.9,868.1,44,Two year,No,0,0,1,Yes,No,No,0,0,0.016950592
+5624-BQSSA,20.95,20.95,1,Month-to-month,No,0,0,0,Yes,No,No,1,1,0.5105952
+1328-EUZHC,20.1,370.5,18,Two year,No,0,1,0,Yes,No,No,0,0,0.0111267865
+1338-CECEE,68.5,2839.95,41,One year,DSL,0,1,1,Yes,No,No,0,0,0.14163345
+7033-CLAMM,20.2,1027.25,48,Two year,No,0,1,1,Yes,No,No,0,0,0.012349237
+9739-JLPQJ,117.5,8670.1,72,Two year,Fiber optic,0,1,1,Yes,Yes,Yes,0,0,0.02628006
+2294-DMMUS,70.45,4300.45,62,Month-to-month,DSL,0,1,1,Yes,No,No,0,0,0.248558
+3679-XASPY,19.45,19.45,1,Month-to-month,No,0,1,1,Yes,No,No,0,1,0.45316687
+3088-LHEFH,79.0,929.3,11,Month-to-month,Fiber optic,0,0,0,Yes,Yes,No,0,1,0.5099432
+3018-TFTSU,81.7,858.6,12,Month-to-month,Fiber optic,0,0,0,Yes,Yes,No,1,0,0.4210495
+6352-TWCAU,86.45,3029.1,35,Month-to-month,Fiber optic,0,0,0,Yes,No,No,1,1,0.7068238
+9432-VOFYX,70.8,1207.0,17,Month-to-month,Fiber optic,0,0,0,Yes,No,No,0,1,0.6962055
+7129-AZJDE,78.95,2647.2,34,One year,Fiber optic,0,1,1,Yes,No,No,0,0,0.306719
+9348-ROUAI,90.3,5194.05,59,Two year,DSL,0,1,1,Yes,Yes,Yes,0,0,0.030452223
+4174-LPGTI,66.5,2728.6,41,One year,DSL,0,1,1,Yes,No,Yes,1,0,0.17773327
+4896-CPRPF,25.45,809.25,35,Two year,No,0,1,1,Yes,No,No,0,0,0.009915899
+4900-MSOMT,80.2,5714.2,72,Two year,DSL,0,1,1,Yes,Yes,Yes,0,0,0.010153289
+3723-BFBGR,54.8,1291.3,24,Month-to-month,DSL,1,0,0,Yes,No,No,0,0,0.20948784
+6718-BDGHG,64.85,2908.2,43,One year,DSL,0,1,0,Yes,No,Yes,0,0,0.041278563
+3045-XETSH,94.85,953.45,10,Month-to-month,Fiber optic,0,0,0,Yes,No,No,1,1,0.8387888
+3275-RHRNE,60.0,1682.05,28,One year,DSL,0,1,1,No,No,Yes,0,0,0.17630757
+8012-SOUDQ,90.25,3838.75,43,Month-to-month,Fiber optic,1,0,0,Yes,No,No,0,1,0.70117444
+7083-MIOPC,20.25,1566.9,72,Two year,No,0,0,0,Yes,No,No,0,0,0.00699385
+7508-KBIMB,56.25,1454.25,24,One year,DSL,0,1,1,Yes,Yes,No,0,0,0.11203452
+1304-BCCFO,70.05,564.4,9,Month-to-month,DSL,0,1,0,Yes,No,No,0,0,0.42886758
+2720-FVBQP,48.95,273.25,6,Month-to-month,DSL,0,1,1,Yes,No,No,0,0,0.37320262
+6174-NRBTZ,30.75,1489.3,46,One year,DSL,0,0,0,No,Yes,No,0,0,0.049511615
+0780-XNZFN,20.65,1125.6,57,Two year,No,0,0,0,Yes,No,No,0,0,0.05345081
+0324-BRPCJ,100.2,6851.65,68,Month-to-month,Fiber optic,1,1,0,Yes,No,No,1,1,0.44420758
+7826-VVKWT,96.55,2263.45,24,Two year,Fiber optic,1,1,1,Yes,No,No,0,0,0.18678239
+8436-BJUMM,83.75,2070.6,26,Month-to-month,Fiber optic,0,1,1,Yes,No,No,1,1,0.6798176
+4727-MCYZG,55.55,55.55,1,Month-to-month,DSL,0,0,0,Yes,No,No,0,1,0.7822373
+0401-WDBXM,105.55,7542.25,72,Two year,Fiber optic,0,1,1,Yes,Yes,No,0,0,0.07822595
+9369-XFEHK,80.6,2656.5,33,Month-to-month,Fiber optic,1,1,0,Yes,No,No,1,1,0.65720356
+4835-YSJMR,49.8,1971.15,39,Two year,DSL,0,0,0,Yes,No,Yes,0,0,0.02175604
+7354-OIJLX,75.85,724.65,9,Month-to-month,Fiber optic,0,0,0,Yes,No,No,0,1,0.696707
+4032-RMHCI,35.4,1412.4,41,One year,DSL,0,1,1,No,Yes,No,0,0,0.026868656
+0670-ANMUU,97.65,6687.85,71,One year,Fiber optic,0,0,0,Yes,Yes,Yes,0,0,0.13017991
+8966-OIQHG,20.75,452.35,22,One year,No,0,1,1,Yes,No,No,0,0,0.013172402
+3071-MVJCD,82.3,5815.15,72,Two year,DSL,0,1,1,Yes,Yes,Yes,0,0,0.0102753695
+9290-SHCMB,96.85,1235.55,13,Month-to-month,Fiber optic,1,0,0,Yes,No,No,0,1,0.8661712
+3696-DFHHB,25.5,1821.8,68,Two year,No,0,0,0,Yes,No,No,0,0,0.01036597
+4146-SVFUD,44.6,44.6,1,Month-to-month,DSL,0,0,0,Yes,No,No,0,1,0.63479275
+0505-SPOOW,19.8,1397.65,70,Two year,No,0,1,0,Yes,No,No,0,0,0.011875392
+6152-ONASV,58.25,3975.7,68,One year,DSL,0,1,0,Yes,Yes,Yes,0,0,0.018547758
+0117-LFRMW,40.2,1448.8,37,Month-to-month,DSL,0,1,1,No,Yes,No,1,0,0.1884199
+9938-PRCVK,19.7,804.25,41,Two year,No,0,1,1,Yes,No,No,0,0,0.009636123
+0221-WMXNQ,75.35,273.4,4,Month-to-month,Fiber optic,1,0,0,Yes,Yes,No,0,1,0.5803239
+7228-OMTPN,88.45,370.65,4,Month-to-month,Fiber optic,0,0,0,Yes,No,No,1,1,0.86174726
+6749-UTDVX,103.65,7634.8,72,Two year,Fiber optic,0,0,0,Yes,No,No,0,1,0.5561766
+9801-NOSHQ,19.8,465.45,23,One year,No,0,0,1,Yes,No,No,0,0,0.014325997
+8007-YYPWD,25.05,369.1,15,Two year,No,0,0,0,Yes,No,No,0,0,0.01818355
+2817-NTQDO,45.55,597.0,13,Month-to-month,DSL,0,0,0,No,Yes,Yes,1,0,0.2700645
+2732-ISEZX,20.5,104.3,5,Month-to-month,No,0,0,0,Yes,No,No,0,0,0.24505325
+2361-UPSND,70.6,3231.05,46,One year,DSL,0,1,0,Yes,Yes,Yes,0,0,0.08821593
+4198-VFOEA,33.6,435.45,12,One year,DSL,0,0,0,No,Yes,Yes,0,0,0.08339473
+2122-SZZZD,19.5,835.5,44,One year,No,0,0,0,Yes,No,No,0,0,0.062110078
+8756-RDDLT,44.95,3085.35,68,Month-to-month,DSL,0,0,0,No,No,Yes,0,0,0.20551504
+4800-VHZKI,19.9,19.9,1,Month-to-month,No,0,0,0,Yes,No,No,1,1,0.6210182
+0219-QAERP,19.8,576.65,30,One year,No,0,1,0,Yes,No,No,0,0,0.027570536
+3058-HJCUY,102.6,4213.35,41,One year,Fiber optic,0,1,1,Yes,No,Yes,1,0,0.42724445
+9185-TQCVP,85.15,1139.2,14,Month-to-month,Fiber optic,0,1,0,Yes,No,No,1,1,0.82211834
+0060-FUALY,94.75,5597.65,59,Month-to-month,Fiber optic,0,1,0,Yes,Yes,No,0,0,0.31608078
+4299-OPXEJ,19.55,1080.55,56,Two year,No,0,0,0,Yes,No,No,0,0,0.09535987
+4706-AXVKM,84.8,906.85,11,Month-to-month,Fiber optic,1,0,0,Yes,No,No,1,1,0.78204536
+2651-ZCBXV,108.0,5760.65,54,Two year,Fiber optic,0,0,0,Yes,Yes,Yes,0,0,0.42774996
+6784-XYJAE,55.8,1941.5,36,One year,DSL,0,0,0,Yes,No,No,0,0,0.12939027
+9227-UAQFT,19.75,284.35,16,Two year,No,0,0,0,Yes,No,No,0,0,0.037362672
+0942-KOWSM,80.8,2369.3,30,Two year,DSL,0,1,1,Yes,No,Yes,0,0,0.016550042
+7128-GGCNO,72.8,3249.4,46,Month-to-month,Fiber optic,0,0,0,Yes,No,No,0,0,0.42764664
+3099-OONVS,54.3,1296.8,25,Month-to-month,DSL,0,1,1,Yes,Yes,Yes,0,0,0.20115061
+7130-VTEWQ,75.75,606.25,8,Month-to-month,Fiber optic,1,0,0,Yes,No,No,1,1,0.7098254
+4981-FLTMF,65.2,3687.85,57,Month-to-month,DSL,0,1,1,Yes,Yes,Yes,0,0,0.11367239
+8628-MFKAX,116.75,8277.05,72,Two year,Fiber optic,1,1,0,Yes,Yes,Yes,0,0,0.01952933
+9112-WSNPU,70.55,2419.0,35,Month-to-month,Fiber optic,1,0,0,Yes,No,No,0,1,0.6106089
+5692-FPTAH,45.4,45.4,1,Month-to-month,DSL,0,0,0,Yes,No,No,1,1,0.696718
+8185-UPYBR,75.5,438.0,6,Month-to-month,Fiber optic,0,1,0,Yes,No,No,1,1,0.77467126
+3887-PBQAO,25.9,1216.6,45,One year,No,0,1,1,Yes,No,No,0,0,0.018811278
+4706-DGAHW,45.2,45.2,1,Month-to-month,DSL,1,0,0,Yes,No,No,0,1,0.7273295
+8398-TBIYD,84.7,6185.15,72,Two year,Fiber optic,0,0,0,Yes,Yes,Yes,0,0,0.011657789
+2314-TNDJQ,55.65,3880.05,72,Two year,DSL,0,1,1,No,Yes,Yes,0,0,0.012212786
+7511-YMXVQ,45.4,418.8,9,Month-to-month,DSL,0,0,0,No,No,No,1,1,0.7062811
+4908-XAXAY,89.85,4287.2,49,One year,Fiber optic,1,0,0,Yes,No,No,0,0,0.40987796
+6633-SYEUS,83.2,2032.3,23,Month-to-month,Fiber optic,0,0,0,Yes,No,Yes,0,0,0.36664173
+6745-JEFZB,91.5,3236.35,35,Month-to-month,Fiber optic,0,1,0,Yes,No,Yes,0,0,0.4004648
+8740-XLHDR,43.25,219.0,5,Month-to-month,DSL,0,0,0,No,Yes,Yes,1,0,0.304116
+0637-UBJRP,84.05,1095.3,13,Month-to-month,Fiber optic,0,1,1,Yes,Yes,No,1,1,0.63119185
+7605-SNLQG,50.25,2221.55,45,Month-to-month,DSL,0,1,0,Yes,No,No,0,0,0.2051307
+7077-XJMET,74.15,741.4,12,Month-to-month,DSL,0,1,0,Yes,No,Yes,0,0,0.37294388
+2569-WGERO,21.15,1419.4,72,Two year,No,0,0,0,Yes,No,No,0,0,0.007989159
+9629-NHXFW,19.4,19.4,1,Month-to-month,No,0,1,1,Yes,No,No,0,1,0.60697234
+3714-XPXBW,78.9,2976.95,37,Month-to-month,DSL,0,0,0,Yes,Yes,Yes,0,0,0.22807355
+3572-UUHRS,18.85,867.3,45,One year,No,0,0,0,Yes,No,No,0,0,0.035516087
+2344-JMOGN,94.85,890.6,9,Month-to-month,Fiber optic,0,1,0,Yes,No,Yes,1,1,0.77645093
+0125-LZQXK,101.35,1553.95,15,Month-to-month,Fiber optic,0,0,0,Yes,No,Yes,1,1,0.67781365
+4910-GMJOT,94.6,94.6,1,Month-to-month,Fiber optic,0,0,0,Yes,No,No,1,1,0.9389699
+1845-CSBRZ,85.35,1961.6,22,Month-to-month,Fiber optic,1,1,1,Yes,No,No,0,1,0.50636613
+9878-TNQGW,80.95,171.15,2,Month-to-month,Fiber optic,0,0,0,Yes,No,No,1,1,0.8570854
+3915-ODIYG,71.75,4374.55,60,One year,DSL,1,0,0,Yes,Yes,No,0,0,0.15892139
+1025-FALIX,69.05,1815.65,26,Month-to-month,Fiber optic,0,0,0,Yes,No,No,0,0,0.43761918
+5312-TSZVC,19.65,270.6,15,One year,No,0,0,1,Yes,No,No,0,0,0.05076213
+9500-LTVBP,80.05,2835.9,35,Month-to-month,Fiber optic,0,0,0,Yes,No,Yes,0,0,0.42448714
+6661-HBGWL,104.75,4323.45,42,Month-to-month,Fiber optic,1,0,0,Yes,No,No,1,1,0.7130905
+6968-URWQU,56.35,2391.15,43,One year,DSL,0,1,0,Yes,No,No,0,0,0.06656161
+6688-UZPWD,102.0,1145.35,11,Month-to-month,Fiber optic,0,1,0,Yes,No,No,1,1,0.9104406
+2911-IJORQ,90.6,3358.65,37,One year,DSL,0,0,0,Yes,Yes,Yes,0,0,0.22883001
+3096-YXENJ,107.65,7082.85,65,Two year,Fiber optic,0,1,0,Yes,No,Yes,0,0,0.22553848
+7593-XFKDI,46.3,46.3,1,Month-to-month,DSL,0,0,0,Yes,No,No,1,1,0.6382361
+9578-VRMNM,65.2,1043.35,16,Month-to-month,DSL,0,0,0,Yes,No,No,1,0,0.32468554
+8039-ACLPL,68.75,4888.2,72,Two year,DSL,0,1,1,Yes,Yes,No,0,0,0.010679854
+4367-NHWMM,24.9,24.9,1,Month-to-month,DSL,0,0,0,No,No,No,0,1,0.7680396
+7880-XSOJX,42.4,146.4,4,Month-to-month,DSL,0,0,0,No,Yes,Yes,0,1,0.46477804
+9499-XPZXM,64.75,4804.75,72,Two year,DSL,0,1,0,Yes,Yes,Yes,0,0,0.0120325945
+8496-DMZUK,90.4,2820.65,30,One year,Fiber optic,0,0,0,Yes,Yes,No,0,0,0.09144358
+2135-DQWAQ,85.3,420.45,5,Month-to-month,Fiber optic,0,0,0,Yes,No,No,0,1,0.8537024
+9391-LMANN,95.95,5036.9,53,One year,Fiber optic,0,0,1,Yes,Yes,No,0,0,0.17200327
+0612-RTZZA,25.25,25.25,1,Month-to-month,DSL,1,0,0,No,No,No,1,1,0.850868
+3656-TKRVZ,55.35,165.2,3,Month-to-month,DSL,0,0,0,Yes,Yes,No,1,0,0.32281968
+7952-OBOYL,89.85,244.45,3,Month-to-month,Fiber optic,0,0,0,Yes,No,Yes,0,1,0.820968
+2452-KDRRH,101.4,6841.05,67,Month-to-month,Fiber optic,1,0,0,Yes,No,No,0,1,0.5279915
+6064-PUPMC,57.2,1423.35,23,One year,DSL,0,1,1,Yes,Yes,Yes,0,0,0.10698731
+4751-ERMAN,75.4,5480.25,72,Two year,DSL,0,1,1,Yes,No,No,0,0,0.023240887
+2320-SLKMB,44.45,1183.8,26,Month-to-month,DSL,0,0,0,No,No,Yes,0,0,0.2831251
+2176-LVPNX,89.85,6293.45,71,Two year,DSL,1,0,0,Yes,Yes,Yes,0,0,0.017344901
+7691-XVTZH,89.95,5974.3,68,Two year,Fiber optic,0,1,0,Yes,No,No,0,0,0.041357316
+1618-CFHME,75.9,143.35,2,Month-to-month,Fiber optic,0,0,0,Yes,No,No,1,1,0.8755761
+1897-OKVMW,90.6,5817.45,64,Two year,DSL,0,1,1,Yes,Yes,Yes,0,0,0.0138739785
+4623-ZKHLY,20.45,471.55,22,Month-to-month,No,0,1,0,Yes,No,No,0,0,0.054562863
+8329-UTMVM,104.65,2964.0,27,One year,Fiber optic,1,0,0,Yes,No,Yes,0,0,0.37708828
+3413-DHLPB,103.75,5969.95,60,Month-to-month,Fiber optic,0,1,1,Yes,No,Yes,0,0,0.28609216
+3401-URHDA,59.9,3043.6,51,One year,DSL,0,0,0,Yes,Yes,Yes,0,0,0.12275642
+8837-VVWLQ,84.95,668.4,8,Month-to-month,Fiber optic,0,0,0,Yes,Yes,No,1,1,0.6813958
+1077-HUUJM,71.05,472.65,7,Month-to-month,Fiber optic,0,0,1,Yes,No,No,0,1,0.6882567
+1089-XZWHH,19.7,494.05,24,Two year,No,0,1,1,Yes,No,No,0,0,0.013608145
+0835-DUUIQ,21.05,531.55,24,One year,No,0,0,1,Yes,No,No,0,0,0.010687399
+3269-ATYWD,95.65,3759.05,39,Month-to-month,Fiber optic,1,0,0,Yes,No,No,1,1,0.65878576
+7075-BNDVQ,35.0,135.75,4,Month-to-month,DSL,0,0,0,No,Yes,No,0,0,0.37340543
+9766-HGEDE,19.35,307.0,17,One year,No,0,1,0,Yes,No,No,0,0,0.04775058
+2706-QZIHY,25.2,387.9,15,Two year,No,0,1,0,Yes,No,No,0,0,0.015452558
+0707-HOVVN,75.5,5212.65,70,Two year,DSL,1,0,0,Yes,No,Yes,0,0,0.06536906
+7594-RQHXR,79.6,79.6,1,Month-to-month,Fiber optic,0,0,1,Yes,No,No,1,1,0.89075524
+0020-JDNXP,61.25,1993.2,34,One year,DSL,0,1,1,No,Yes,Yes,0,0,0.106016934
+6985-HAYWX,79.3,2015.8,26,Month-to-month,Fiber optic,0,1,0,Yes,No,No,0,0,0.4225798
+2400-FEQME,20.5,1177.95,55,Two year,No,0,1,1,Yes,No,No,0,0,0.031761225
+1173-NOEYG,90.15,2423.4,27,Month-to-month,Fiber optic,0,1,0,Yes,No,No,0,1,0.49612355
+0980-FEXWF,50.35,1285.8,26,One year,DSL,0,1,1,Yes,No,No,0,0,0.06676292
+8149-AIQCG,73.15,2730.85,39,Month-to-month,Fiber optic,0,0,0,Yes,No,No,0,1,0.5242337
+6927-WTFIV,71.3,1389.2,20,Month-to-month,Fiber optic,1,0,0,Yes,No,No,1,0,0.4122015
+4104-PVRPS,53.6,1315.35,24,Month-to-month,DSL,0,1,0,Yes,Yes,Yes,0,0,0.102237836
+8871-JLMHM,90.2,6297.65,68,Two year,Fiber optic,0,1,0,Yes,No,Yes,0,0,0.042380802
+7503-QQRVF,74.3,1178.25,16,Month-to-month,Fiber optic,1,1,0,Yes,No,No,1,1,0.63659436
+8040-MNRTF,71.1,71.1,1,Month-to-month,Fiber optic,0,0,0,Yes,No,No,0,1,0.8871147
+3181-VTHOE,51.05,3635.15,70,One year,DSL,0,1,0,No,No,Yes,0,0,0.10457734
+6161-UUUTA,79.9,260.9,3,Month-to-month,Fiber optic,1,0,0,Yes,No,No,1,1,0.8383251
+5480-TBGPH,99.3,2431.35,24,Month-to-month,Fiber optic,0,1,0,Yes,No,No,1,1,0.5542303
+4718-WXBGI,91.95,6614.9,72,Two year,DSL,0,1,1,Yes,Yes,Yes,0,0,0.0076975925
+2465-BLLEU,19.75,19.75,1,Month-to-month,No,0,0,0,Yes,No,No,0,1,0.6215318
+7605-BDWDC,49.85,1520.1,31,Two year,DSL,0,0,0,No,Yes,Yes,0,0,0.015486649
+1024-GUALD,24.8,24.8,1,Month-to-month,DSL,0,1,0,No,No,No,1,1,0.80394226
+7103-IPXPJ,99.4,5059.75,50,One year,Fiber optic,0,1,0,Yes,No,Yes,0,0,0.29256287
+3654-ARMGP,88.65,5321.25,61,Two year,DSL,0,0,0,Yes,No,Yes,0,0,0.026506877
+7206-PQBBZ,70.2,834.7,11,Month-to-month,Fiber optic,1,1,0,Yes,No,No,0,1,0.721499
+4537-DKTAL,45.55,84.4,2,Month-to-month,DSL,0,0,0,Yes,No,No,0,1,0.66310966
+8659-HDIYE,74.65,4869.35,64,Month-to-month,DSL,1,0,0,Yes,No,Yes,0,0,0.16162974
+4654-GGUII,40.2,711.95,18,One year,DSL,0,0,0,No,Yes,Yes,0,0,0.063135095
+3284-SVCRO,25.5,1121.05,45,Two year,No,0,1,0,Yes,No,No,0,0,0.01919933
+8734-FNWVH,59.7,1825.5,31,Month-to-month,DSL,0,1,1,Yes,No,No,0,0,0.19778417
+4018-PPNDW,24.1,1551.6,61,Two year,No,0,1,1,Yes,No,No,0,0,0.0113811735
+6360-SVNWV,73.55,2094.65,31,Month-to-month,Fiber optic,1,0,0,Yes,Yes,No,0,1,0.60192376
+5821-MMEIL,19.9,1115.6,57,Two year,No,0,1,0,Yes,No,No,0,0,0.031147327
+1174-FGIFN,90.45,2509.25,28,One year,Fiber optic,0,1,1,Yes,No,Yes,0,0,0.3245456
+7349-ALMUX,65.6,2313.8,37,Two year,DSL,0,0,0,Yes,Yes,Yes,0,0,0.015246302
+7047-FWEYA,103.15,4594.65,46,One year,Fiber optic,0,1,0,Yes,No,Yes,0,0,0.41317338
+9967-ATRFS,19.9,367.55,19,Month-to-month,No,0,0,0,Yes,No,No,0,0,0.08386034
+8838-GPHZP,20.6,1298.7,63,Two year,No,0,0,0,Yes,No,No,0,0,0.018734548
+5736-YEJAX,79.45,5502.55,69,Two year,DSL,0,0,1,Yes,Yes,Yes,0,0,0.050588127
+6668-CNMFP,89.35,1686.85,19,One year,Fiber optic,0,1,1,Yes,No,Yes,0,0,0.29845306
+0410-IPFTY,83.85,2674.15,31,Month-to-month,Fiber optic,0,1,0,Yes,No,No,0,1,0.5995562
+1763-KUAAW,20.35,369.6,18,One year,No,1,0,0,Yes,No,No,0,0,0.050707053
+0440-QEXBZ,50.15,2139.1,44,Month-to-month,DSL,0,0,0,Yes,No,No,0,0,0.1535571
+1363-TXLSL,70.3,70.3,1,Month-to-month,Fiber optic,1,1,0,Yes,No,No,1,1,0.88128555
+3027-ZTDHO,89.9,89.9,1,Month-to-month,Fiber optic,0,0,0,Yes,No,No,1,1,0.9185916
+4718-DHSMV,35.8,363.15,11,Month-to-month,DSL,0,0,0,No,No,No,0,1,0.52249616
+9746-UGFAC,20.85,450.65,22,One year,No,0,0,0,Yes,No,No,0,0,0.013892021
+5016-IBERQ,84.25,1968.1,23,Month-to-month,Fiber optic,0,1,0,Yes,No,No,0,1,0.6141578
+2402-TAIRZ,80.05,3019.1,37,One year,Fiber optic,0,0,0,Yes,No,No,0,0,0.13788529
+9674-EHPPG,40.4,1842.7,46,Two year,DSL,0,1,0,No,Yes,Yes,0,0,0.02606667
+4425-OWHWB,19.35,433.75,20,One year,No,0,0,0,Yes,No,No,0,0,0.050248396
+9637-EIHEQ,50.8,50.8,1,Month-to-month,DSL,0,0,0,Yes,No,Yes,1,1,0.8312771
+5320-BRKGK,75.8,4415.75,58,Two year,DSL,0,1,1,Yes,Yes,Yes,0,0,0.019117517
+5149-QYTTU,95.15,6770.85,71,One year,Fiber optic,0,1,1,Yes,Yes,Yes,0,0,0.03540982
+2065-MMKGR,71.0,2080.1,29,One year,DSL,0,0,0,Yes,No,No,0,0,0.18559308
+1265-ZFOSD,81.3,5129.3,64,Two year,DSL,0,1,0,Yes,Yes,Yes,0,0,0.021614714
+8473-VUVJN,73.65,73.65,1,Month-to-month,Fiber optic,1,0,0,Yes,No,No,1,1,0.8548607
+1349-WXNGG,20.05,20.05,1,Month-to-month,No,0,0,0,Yes,No,No,1,1,0.45256552
+7781-EWARA,60.35,4138.7,70,One year,DSL,0,1,1,No,No,Yes,0,0,0.08106218
+5546-QUERU,19.95,257.0,13,One year,No,0,0,0,Yes,No,No,0,0,0.04797731
+4628-CTTLA,39.3,2111.45,57,Month-to-month,DSL,0,0,0,No,No,No,1,0,0.396548
+4884-TVUQF,101.3,5779.6,57,Two year,Fiber optic,1,0,0,Yes,Yes,Yes,0,0,0.0952259
+2587-YNLES,20.1,100.35,6,Two year,No,0,1,1,Yes,No,No,0,0,0.014383809
+0230-UBYPQ,36.1,2298.9,63,One year,DSL,1,1,0,No,Yes,Yes,0,0,0.026932048
+6979-TNDEU,19.2,156.85,8,Month-to-month,No,0,0,0,Yes,No,No,0,0,0.19542393
+1208-DNHLN,48.35,1067.15,23,One year,DSL,0,1,1,Yes,No,No,1,0,0.08817873
+5777-KJIRB,50.25,2023.55,40,One year,DSL,0,0,0,Yes,No,No,0,0,0.08120481
+0603-TPMIB,25.45,1534.05,59,Two year,No,0,1,1,Yes,No,No,0,0,0.019274104
+1133-KXCGE,20.1,407.05,18,One year,No,0,0,0,Yes,No,No,0,0,0.023839872
+8563-OYMQY,90.95,1612.2,17,Month-to-month,Fiber optic,0,0,0,Yes,No,No,0,1,0.5335256
+6769-DYBQN,85.0,3969.4,46,Month-to-month,Fiber optic,1,0,0,Yes,Yes,No,1,1,0.5037191
+1159-WFSGR,20.4,321.4,16,Month-to-month,No,0,1,1,Yes,No,No,0,0,0.2712203
+0921-OHLVP,83.05,1799.3,22,Month-to-month,Fiber optic,0,0,0,Yes,No,No,0,1,0.6378736
+6418-PIQSP,81.0,4985.9,62,Two year,DSL,0,1,0,Yes,Yes,Yes,0,0,0.021050928
+9200-NLNPD,54.05,2959.8,56,One year,DSL,0,1,0,No,No,Yes,0,0,0.17787385
+4795-KTRTH,81.0,371.65,5,Month-to-month,Fiber optic,1,1,0,Yes,No,No,1,1,0.81329685
+8218-FFJDS,86.4,6058.95,72,Two year,DSL,0,1,0,Yes,Yes,Yes,0,0,0.008331128
+6410-LEFEN,45.15,416.45,9,Month-to-month,DSL,0,0,0,Yes,No,No,1,1,0.45935395
+0052-DCKON,115.8,7942.15,66,One year,Fiber optic,0,1,0,Yes,Yes,Yes,0,0,0.28780532
+6635-CPNUN,96.6,2684.35,28,Month-to-month,Fiber optic,0,1,0,Yes,No,No,0,1,0.4508899
+4355-CVPVS,88.9,4968.0,56,One year,Fiber optic,0,1,1,Yes,No,No,0,0,0.34512264
+4237-RLAQD,45.85,45.85,1,Month-to-month,DSL,0,0,0,Yes,No,No,1,1,0.6922559
+2034-CGRHZ,102.95,2496.7,24,Month-to-month,Fiber optic,1,0,0,Yes,No,No,1,1,0.73433673
+4807-IZYOZ,20.65,1020.75,51,Two year,No,0,0,0,Yes,No,No,0,0,0.02098718
+5949-EBSQK,61.45,229.55,4,Month-to-month,DSL,0,1,1,Yes,No,Yes,1,0,0.28358644
+4500-HKANN,59.7,1414.2,23,Two year,DSL,0,1,1,Yes,No,Yes,0,0,0.013337385
+8812-ZRHFP,86.45,2538.05,30,One year,Fiber optic,0,1,1,Yes,No,No,0,0,0.22780581
+3712-PKXZA,20.55,1252.0,61,One year,No,0,1,0,Yes,No,No,0,0,0.038229752
+8174-LNWMW,20.9,689.35,31,Two year,No,0,0,0,Yes,No,No,0,0,0.0121775735
+6502-MJQAE,69.6,69.6,1,Month-to-month,Fiber optic,0,0,0,Yes,No,No,1,1,0.9226685
+0031-PVLZI,20.35,76.35,4,Month-to-month,No,0,1,1,Yes,No,No,1,0,0.23438187
+7901-HXJVA,76.45,1117.55,14,Month-to-month,Fiber optic,0,0,0,Yes,No,No,0,1,0.5948821
+5802-ADBRC,104.4,5232.9,50,One year,Fiber optic,0,1,0,Yes,Yes,No,0,0,0.32997024
+3453-RTHJQ,69.1,435.0,6,Month-to-month,Fiber optic,0,0,0,Yes,No,No,0,1,0.69448304
+2189-WWOEW,85.9,1269.55,15,Month-to-month,Fiber optic,0,0,1,Yes,No,No,1,1,0.55137056
+9378-FXTIZ,70.15,3715.65,54,One year,DSL,0,1,0,Yes,No,No,1,0,0.16782124
+1320-REHCS,110.75,5832.0,52,Month-to-month,Fiber optic,1,0,0,Yes,No,Yes,0,1,0.48210955
+4817-VYYWS,100.2,2983.8,30,Month-to-month,Fiber optic,0,0,0,Yes,No,No,1,1,0.7843267
+5896-NPFWW,50.15,168.15,3,Month-to-month,DSL,0,1,1,Yes,No,No,1,1,0.64385337
+5012-YSPJJ,54.35,1647.0,31,Month-to-month,DSL,0,1,1,Yes,No,Yes,0,0,0.14826
+3445-HXXGF,45.3,2651.2,58,Month-to-month,DSL,1,1,0,No,No,No,1,1,0.604175
+9880-TDQAC,60.0,4264.0,72,Two year,DSL,0,1,1,No,No,Yes,0,0,0.058404725
+3426-NIYYL,51.55,765.5,15,Month-to-month,DSL,0,0,0,Yes,No,No,1,0,0.41480935
+3800-LYTRK,55.7,795.15,14,One year,DSL,0,0,0,Yes,Yes,Yes,0,0,0.09415458
+2982-IHMFT,74.45,74.45,1,Month-to-month,Fiber optic,1,0,0,Yes,No,No,1,1,0.9061767
+1599-EAHXY,23.95,1506.4,60,One year,No,0,1,1,Yes,No,No,0,0,0.022906836
+8779-YIQQA,19.8,350.1,21,One year,No,0,1,1,Yes,No,No,0,0,0.021625116
+1932-UEDCX,100.6,3270.25,33,Month-to-month,Fiber optic,1,1,0,Yes,No,No,0,1,0.7055716
+8079-XRJRS,89.75,5769.6,65,One year,Fiber optic,0,1,0,Yes,Yes,No,1,0,0.13570392
+3740-RLMVT,60.95,4119.4,67,One year,DSL,1,1,0,Yes,Yes,Yes,0,0,0.023363339
+8058-JMEQO,84.45,762.5,9,Month-to-month,Fiber optic,1,0,0,Yes,No,No,1,1,0.8673893
+5315-CKEQK,51.0,1381.8,28,One year,DSL,1,1,1,Yes,No,No,0,0,0.1580781
+6088-BXMRG,98.85,3089.6,32,Month-to-month,Fiber optic,0,1,1,Yes,No,No,0,1,0.75798845
+9625-QNLUX,103.25,7074.4,68,Two year,Fiber optic,0,1,1,Yes,Yes,No,0,0,0.06385907
+0975-UYDTX,90.1,2312.55,26,One year,DSL,0,1,0,Yes,Yes,Yes,0,0,0.2506829
+7963-GQRMY,44.3,134.5,3,Month-to-month,DSL,0,1,1,Yes,No,No,1,1,0.5624124
+7480-SPLEF,26.0,1796.55,69,Two year,No,0,1,1,Yes,No,No,0,0,0.009328071
+5119-KEPFY,95.0,3440.25,36,Month-to-month,Fiber optic,0,1,0,Yes,No,No,0,1,0.4690961
+4568-KNYWR,63.25,3342.45,52,Two year,DSL,0,0,0,Yes,Yes,No,0,0,0.03366331
+2522-WLNSF,64.2,2106.3,34,One year,DSL,1,1,0,Yes,No,Yes,0,0,0.16351809
+9101-BWFSS,108.55,5610.7,50,One year,Fiber optic,0,1,0,Yes,Yes,Yes,1,1,0.44318232
+4079-VTGLK,74.85,2181.75,30,Two year,DSL,1,1,0,Yes,No,No,0,0,0.046080828
+5115-SQAAU,25.6,1673.4,69,Two year,No,0,1,1,Yes,No,No,0,0,0.009232044
+6892-EZDTG,91.65,365.4,4,Month-to-month,Fiber optic,0,1,0,Yes,No,No,1,1,0.8848537
+6736-DHUQI,84.8,5598.3,67,One year,Fiber optic,0,1,1,Yes,Yes,No,0,0,0.07178679
+3677-TNKIO,71.0,914.0,14,Month-to-month,Fiber optic,0,0,0,Yes,No,No,1,1,0.52466184
+6532-YLWSI,20.8,1021.8,53,One year,No,0,1,0,Yes,No,No,1,0,0.022869203
+1162-ECVII,109.75,7932.5,72,Two year,Fiber optic,1,1,0,Yes,No,Yes,0,0,0.10642369
+5310-NOOVA,19.95,907.05,46,Two year,No,0,0,0,Yes,No,No,0,0,0.046432424
+4817-KEQSP,19.85,1326.35,71,Two year,No,0,1,1,Yes,No,No,0,0,0.008215589
+5175-WLYXL,78.85,1600.25,22,Month-to-month,Fiber optic,0,0,0,Yes,No,No,0,1,0.5151337
+7126-RBHSD,78.9,1348.95,17,Month-to-month,Fiber optic,0,1,0,Yes,Yes,No,0,1,0.53242916
+5959-BELXA,96.15,3019.25,32,Month-to-month,Fiber optic,1,0,0,Yes,No,No,1,1,0.7186193
+8990-ZXLSU,69.05,651.5,9,Month-to-month,Fiber optic,0,0,0,Yes,No,No,0,1,0.5660672
+6510-UPNKS,24.8,615.35,23,One year,No,0,0,0,Yes,No,No,0,0,0.037918955
+8313-AFGBW,73.6,3522.65,47,Two year,DSL,0,1,0,Yes,No,No,0,0,0.052384052
+5394-MEITZ,80.6,4946.7,60,Two year,DSL,0,1,1,Yes,No,Yes,0,0,0.023238473
+9074-KGVOX,39.45,2021.35,50,Month-to-month,DSL,0,1,1,No,Yes,No,0,0,0.08420358
+6425-YQLLO,105.95,6975.25,66,One year,Fiber optic,1,1,0,Yes,No,Yes,1,0,0.22964947
+1409-PHXTF,110.45,6077.75,54,Two year,Fiber optic,1,1,0,Yes,No,Yes,0,0,0.43024865
+7010-BRBUU,24.1,1734.65,72,Two year,No,0,1,1,Yes,No,No,0,0,0.006037662
+5919-TMRGD,79.35,79.35,1,Month-to-month,Fiber optic,0,0,1,Yes,No,No,1,1,0.88979226
+6145-NNPNO,44.15,44.15,1,Month-to-month,DSL,0,0,0,Yes,No,No,0,1,0.6510522
+5840-NVDCG,68.25,1114.85,16,Two year,DSL,0,1,1,Yes,Yes,Yes,0,0,0.023436565
+0708-SJDIS,65.0,2157.5,34,Month-to-month,DSL,0,0,0,Yes,No,Yes,0,0,0.17463073
+0923-PNFUB,83.75,247.25,3,Month-to-month,Fiber optic,0,0,0,Yes,No,No,1,1,0.6955657
+8637-XJIVR,78.95,927.35,12,Month-to-month,Fiber optic,0,0,0,Yes,Yes,No,1,1,0.6294015
+5956-VKDTT,74.35,334.8,5,Month-to-month,Fiber optic,1,1,0,Yes,No,No,1,1,0.7687099
+6905-NIQIN,50.65,50.65,1,Month-to-month,DSL,0,0,0,Yes,No,No,1,1,0.73858446
+9693-XMUOB,50.25,2997.45,59,Month-to-month,DSL,1,1,0,No,No,No,0,1,0.49232966
+5998-VVEJY,80.5,2088.8,26,Month-to-month,Fiber optic,0,0,0,Yes,No,Yes,1,1,0.5674006
+7814-LEEVE,20.3,20.3,1,Month-to-month,No,0,1,0,Yes,No,No,0,1,0.62860936
+3324-OIRTO,104.65,7288.4,71,One year,Fiber optic,0,1,1,Yes,Yes,No,0,0,0.142449
+3498-LZGQZ,19.15,1177.05,63,Two year,No,0,1,1,Yes,No,No,0,0,0.029293034
+7010-ZMVBF,20.45,357.0,18,Month-to-month,No,0,1,1,Yes,No,No,0,0,0.090967074
+5433-KYGHE,86.0,1164.05,14,Month-to-month,Fiber optic,0,0,1,Yes,Yes,Yes,0,1,0.54251087
+5312-IRCFR,92.85,5980.75,64,One year,Fiber optic,0,1,1,Yes,No,No,0,0,0.17702846
+6284-KMNUF,98.0,5270.6,56,One year,Fiber optic,0,1,0,Yes,Yes,No,0,0,0.24827978
+8319-QBEHW,39.95,1023.75,26,One year,DSL,0,0,1,No,No,No,0,0,0.061812405
+7054-DMVAS,65.3,3512.9,54,Two year,DSL,0,0,0,Yes,Yes,No,0,0,0.033041578
+7055-HNEOJ,55.8,154.55,3,Month-to-month,DSL,0,1,0,Yes,No,Yes,0,1,0.4831727
+0822-GAVAP,34.7,62.25,2,Month-to-month,DSL,0,0,0,No,No,No,1,1,0.81349325
+2190-BCXEC,78.85,3126.85,40,Month-to-month,Fiber optic,0,1,0,Yes,No,Yes,0,0,0.41383046
+0431-APWVY,90.1,2598.95,28,One year,Fiber optic,0,1,1,Yes,No,No,1,0,0.33279383
+9927-DSWDF,104.6,2180.55,22,Month-to-month,Fiber optic,0,1,0,Yes,Yes,Yes,0,1,0.58484894
+4656-CAURT,23.95,1713.1,69,Two year,No,0,0,0,Yes,No,No,0,0,0.009536726
+4353-HYOJD,49.85,1336.15,27,Month-to-month,DSL,0,1,1,Yes,No,No,0,0,0.13591799
+1866-DIOQZ,66.8,4689.15,71,One year,DSL,0,1,0,No,Yes,Yes,0,0,0.034575406
+0654-PQKDW,70.75,4263.45,62,One year,DSL,0,1,1,Yes,Yes,Yes,0,0,0.07113198
+1724-IQWNM,19.3,19.3,1,Month-to-month,No,0,0,1,Yes,No,No,0,1,0.62626946
+7696-CFTAT,19.8,726.1,37,Two year,No,0,1,1,Yes,No,No,0,0,0.0058933785
+1264-FUHCX,56.3,2780.6,49,One year,DSL,0,1,0,No,No,Yes,0,0,0.3528318
+6128-AQBMT,53.95,2215.4,41,Month-to-month,DSL,1,1,0,No,No,No,0,1,0.71390873
+1110-KYLGQ,108.25,6780.1,63,Month-to-month,Fiber optic,0,0,0,Yes,Yes,No,0,0,0.24365254
+0378-NHQXU,88.25,1460.65,17,Month-to-month,Fiber optic,0,1,1,Yes,No,No,1,1,0.7017346
+1725-MIMXW,19.45,19.45,1,Month-to-month,No,0,0,1,Yes,No,No,1,1,0.6151641
+3005-NFMTA,98.8,5617.75,55,Month-to-month,Fiber optic,1,0,0,Yes,Yes,No,1,1,0.57390815
+4704-ERYFC,69.25,1554.0,22,Month-to-month,Fiber optic,0,1,0,Yes,No,No,1,1,0.60261965
+2834-JKOOW,45.9,693.45,15,One year,DSL,0,0,0,No,Yes,Yes,0,0,0.09180641
+5186-PEIZU,19.25,617.65,35,Month-to-month,No,0,0,0,Yes,No,No,0,0,0.065204
+5356-RHIPP,20.2,20.2,1,Month-to-month,No,0,0,0,Yes,No,No,1,1,0.62145734
+4115-UMJFQ,35.75,2492.25,69,One year,DSL,0,0,0,No,No,No,0,0,0.04641156
+0621-HJWXJ,81.55,5029.05,63,Month-to-month,Fiber optic,0,1,0,Yes,No,No,0,0,0.23278826
+5443-SCMKX,94.3,5610.15,58,One year,Fiber optic,0,1,0,Yes,No,No,0,1,0.4651563
+8042-RNLKO,25.45,1699.15,66,One year,No,0,0,0,Yes,No,No,0,0,0.019237444
+3524-WQDSG,99.3,4209.95,43,Month-to-month,Fiber optic,0,1,1,Yes,No,No,0,1,0.6165958
+9754-CLVZW,38.85,1025.15,26,Month-to-month,DSL,0,1,1,No,Yes,Yes,0,0,0.12450261
+2530-FMFXO,103.2,5873.75,56,Two year,Fiber optic,0,1,1,Yes,No,Yes,0,0,0.2769455
+4989-LIXVT,95.9,6503.2,68,Month-to-month,Fiber optic,1,0,0,Yes,No,No,0,0,0.3987818
+8930-XOTDP,55.95,1082.8,18,Month-to-month,DSL,0,1,1,Yes,No,No,0,0,0.3076856
+9259-PACGQ,62.65,2274.9,34,Month-to-month,DSL,0,1,0,Yes,Yes,Yes,1,0,0.20797656
+4282-ACRXS,24.85,955.75,38,Month-to-month,DSL,1,1,0,No,No,No,0,0,0.4018107
+4854-SSLTN,59.5,130.5,2,Two year,DSL,0,1,1,Yes,Yes,Yes,0,0,0.037625387
+0056-EPFBG,39.4,825.4,20,Two year,DSL,0,1,1,No,Yes,Yes,0,0,0.017396241
+9289-LBQVU,70.15,4480.7,64,One year,DSL,0,1,0,Yes,No,Yes,0,0,0.17409435
+1004-NOZNR,94.8,5264.3,56,One year,Fiber optic,1,0,1,Yes,Yes,No,0,0,0.20787345
+7695-PKLCZ,20.5,1424.9,68,Two year,No,0,0,0,Yes,No,No,0,0,0.0102002835
+0365-BZUWY,102.55,1742.5,17,Month-to-month,Fiber optic,0,1,0,Yes,No,No,0,1,0.8314741
+5970-GHJAW,19.95,862.4,46,Two year,No,0,1,1,Yes,No,No,0,0,0.0123588545
+3957-LXOLK,106.15,3152.5,28,Month-to-month,Fiber optic,1,0,0,Yes,No,No,1,1,0.8028635
+8450-JOVAH,56.7,113.55,2,Month-to-month,DSL,0,1,1,Yes,Yes,No,1,0,0.32614708
+3571-RFHAR,109.15,6941.2,65,Month-to-month,Fiber optic,0,0,0,Yes,No,Yes,1,0,0.30605948
+6413-XKKPU,89.4,1539.45,17,Month-to-month,Fiber optic,0,1,1,Yes,Yes,No,1,1,0.673724
+7921-LMDFQ,94.0,4905.75,51,One year,Fiber optic,1,0,0,Yes,No,No,0,1,0.44051647
+1215-FIGMP,89.9,5450.7,60,Month-to-month,Fiber optic,0,0,0,Yes,No,No,0,0,0.31098014
+4652-NNHNY,73.85,1284.2,16,Month-to-month,Fiber optic,0,1,0,Yes,No,No,1,1,0.5434174
+2956-GGUCQ,78.85,1772.25,24,Month-to-month,Fiber optic,1,1,0,Yes,Yes,No,1,1,0.6225993
+6629-CZTTH,55.7,55.7,1,Month-to-month,DSL,0,0,0,Yes,No,No,1,1,0.76692677
+3429-IFLEM,77.35,5550.1,71,Two year,DSL,0,0,0,Yes,Yes,Yes,0,0,0.023316395
+2927-CVULT,104.05,5566.4,53,Two year,Fiber optic,0,1,1,Yes,Yes,Yes,0,0,0.17292356
+6620-JDYNW,60.6,1156.35,18,Month-to-month,DSL,0,0,0,Yes,Yes,No,0,0,0.30129322
+6465-GSRCL,106.6,7244.7,67,One year,Fiber optic,0,0,1,Yes,No,Yes,0,0,0.17848572
+1374-DMZUI,94.3,424.45,4,Month-to-month,Fiber optic,1,0,0,Yes,No,No,1,1,0.9329188
+5016-ETTFF,29.5,255.25,10,Month-to-month,DSL,0,0,0,No,No,No,1,0,0.3794369
+2208-NKVVH,24.25,1077.95,43,Two year,No,0,1,1,Yes,No,No,0,0,0.01337751
+3503-TYDAY,80.45,3398.9,43,Month-to-month,Fiber optic,0,1,0,Yes,No,No,0,1,0.5862432
+5110-CHOPY,53.6,3237.05,60,Two year,DSL,0,0,0,No,Yes,No,0,0,0.15023702
+0231-LXVAP,75.9,75.9,1,Month-to-month,Fiber optic,0,0,0,Yes,No,Yes,1,1,0.8422988
+1579-KLYDT,90.45,593.45,7,Month-to-month,Fiber optic,0,0,0,Yes,No,No,1,1,0.85705066
+4183-MYFRB,90.05,1862.9,21,Month-to-month,Fiber optic,0,0,0,Yes,No,No,0,1,0.6346628
+5047-LHVLY,50.15,50.15,1,Month-to-month,DSL,1,0,1,Yes,No,No,1,1,0.63681763
+5399-ZIMKF,74.65,383.65,5,Month-to-month,Fiber optic,0,0,0,Yes,No,No,0,1,0.72871804
+8670-MEFCP,92.9,3379.25,36,Two year,DSL,0,1,1,Yes,Yes,Yes,0,0,0.022306137
+2634-HCZGT,60.05,3229.65,53,One year,DSL,1,1,0,Yes,Yes,Yes,1,0,0.10298175
+0723-DRCLG,74.45,74.45,1,Month-to-month,Fiber optic,1,1,0,Yes,No,No,1,1,0.9133049
+0440-UEDAI,94.45,5042.75,53,One year,Fiber optic,0,0,0,Yes,No,Yes,0,0,0.30922344
+5120-ZBLAI,75.7,3876.2,50,One year,DSL,0,1,0,Yes,No,No,0,0,0.22437981
+3763-GCZHZ,104.05,6890.0,66,One year,Fiber optic,0,1,0,Yes,No,Yes,1,0,0.40893868
+8510-TMWYB,59.8,3246.45,54,Two year,DSL,0,1,1,Yes,No,No,0,0,0.035681356
+6506-EYCNH,19.55,543.8,28,Month-to-month,No,0,1,1,Yes,No,No,0,0,0.14427389
+8229-TNIQA,45.3,196.95,4,Month-to-month,DSL,0,0,0,Yes,No,No,1,1,0.6324871
+4361-BKAXE,114.5,4527.45,41,Month-to-month,Fiber optic,0,0,0,Yes,Yes,Yes,1,1,0.45083988
+5018-LXQQG,66.3,1923.5,30,Month-to-month,DSL,0,1,1,Yes,Yes,Yes,0,0,0.18553469
+1768-ZAIFU,25.2,25.2,1,Month-to-month,DSL,1,0,0,No,No,No,1,1,0.90174955
+4176-FXYBO,109.55,6118.95,54,Month-to-month,Fiber optic,0,1,0,Yes,Yes,No,0,1,0.5557887
+8148-WOCMK,19.6,125.0,8,Two year,No,0,1,1,Yes,No,No,0,0,0.017004477
+7740-BTPUX,113.6,6292.7,55,Two year,Fiber optic,1,1,0,Yes,No,Yes,0,0,0.43298343
+5799-JRCZO,19.5,1215.1,63,Two year,No,0,0,1,Yes,No,No,0,0,0.01833277
+6869-FGJJC,79.6,5461.45,68,One year,Fiber optic,0,0,0,Yes,No,No,0,0,0.11905784
+0508-OOLTO,71.65,135.75,2,Month-to-month,Fiber optic,0,1,1,Yes,No,No,0,1,0.7275711
+7435-ZNUYY,20.6,116.6,6,One year,No,0,0,0,Yes,No,No,0,0,0.0922019
+5899-MQZZL,75.0,999.45,13,Month-to-month,Fiber optic,0,0,0,Yes,No,No,1,1,0.58275354
+1676-MQAOA,75.1,5336.35,72,Two year,DSL,0,0,0,Yes,Yes,Yes,0,0,0.012468933
+2085-BOJKI,96.65,1588.25,17,One year,Fiber optic,0,1,0,Yes,No,No,0,1,0.5339313
+9947-OTFQU,74.4,1074.3,15,Month-to-month,Fiber optic,1,0,0,Yes,No,No,1,1,0.7466539
+9776-OJUZI,95.45,6223.3,65,Month-to-month,Fiber optic,1,0,0,Yes,No,No,0,0,0.41229126
+5567-GZKQY,20.3,1131.5,58,Two year,No,0,0,0,Yes,No,No,0,0,0.05345081
+4098-NAUKP,84.65,5683.6,68,Month-to-month,Fiber optic,1,1,1,Yes,No,No,0,1,0.49140888
+9795-SHUHB,58.2,3810.8,66,Two year,DSL,0,1,1,Yes,Yes,Yes,0,0,0.022504343
+2988-GBIVW,90.85,6470.1,70,Month-to-month,Fiber optic,1,1,0,Yes,Yes,No,0,0,0.28218699
+3665-JATSN,39.7,710.05,19,Month-to-month,DSL,0,0,0,No,No,No,0,1,0.57465374
+6576-FBXOJ,54.6,934.8,17,One year,DSL,0,1,0,No,No,Yes,0,0,0.42552823
+5590-BYNII,100.75,2095.0,22,Month-to-month,Fiber optic,0,0,0,Yes,Yes,No,1,1,0.8051039
+7064-FRRSW,99.0,4744.35,48,One year,Fiber optic,1,0,0,Yes,No,No,0,0,0.38675982
+7820-ZYGNY,90.45,5825.5,63,One year,Fiber optic,0,0,0,Yes,No,No,0,0,0.19397286
+7159-NOKYQ,93.15,6368.2,67,Two year,Fiber optic,0,1,0,Yes,No,No,0,0,0.07246259
+5481-NTDOH,107.05,7142.5,67,One year,Fiber optic,1,1,0,Yes,Yes,No,0,0,0.23967189
+2143-LJULT,25.25,1733.15,67,Two year,No,0,1,0,Yes,No,No,0,0,0.010787341
+4132-KALRO,100.85,399.25,4,Month-to-month,Fiber optic,0,0,0,Yes,No,Yes,0,1,0.9254607
+0635-WKOLD,70.75,2921.75,40,One year,DSL,0,1,0,Yes,No,Yes,0,0,0.095540404
+2369-UAPKZ,104.1,541.9,5,Month-to-month,Fiber optic,0,0,0,Yes,No,No,1,1,0.7452503
+4811-JBUVU,89.9,2723.15,30,Month-to-month,Fiber optic,0,0,0,Yes,No,Yes,0,0,0.3971013
+0201-OAMXR,115.55,8127.6,70,One year,Fiber optic,0,0,0,Yes,Yes,Yes,1,0,0.3773104
+7980-MHFLQ,24.9,1859.2,72,Two year,No,0,1,1,Yes,No,No,0,0,0.0059753037
+9752-ZNQUT,48.6,48.6,1,Month-to-month,DSL,0,0,0,Yes,No,No,0,1,0.733055
+3722-WPXTK,88.35,88.35,1,Month-to-month,Fiber optic,0,0,0,Yes,No,No,1,1,0.9169701
+9845-PEEKO,79.2,4590.35,59,Two year,Fiber optic,1,0,0,Yes,No,No,0,0,0.09411225
+1625-JAIIY,83.0,5685.8,68,One year,Fiber optic,0,1,1,Yes,No,No,1,0,0.14029689
+9651-GTSAQ,106.1,5769.75,53,One year,Fiber optic,0,1,0,Yes,Yes,No,1,1,0.45816466
+4480-QQRHC,74.05,600.15,8,Month-to-month,Fiber optic,1,0,0,Yes,No,No,0,1,0.70815736
+2272-UOINI,78.5,571.05,7,Month-to-month,DSL,0,0,0,Yes,Yes,Yes,0,1,0.4520086
+2308-STERM,19.4,61.05,2,Month-to-month,No,0,0,0,Yes,No,No,0,0,0.26425624
+3079-BCHLN,19.9,942.95,47,One year,No,0,1,0,Yes,No,No,0,0,0.0329137
+0139-IVFJG,90.35,190.5,2,Month-to-month,Fiber optic,0,1,0,Yes,Yes,No,0,1,0.44170403
+3404-JNXAX,80.75,4116.9,51,Month-to-month,Fiber optic,0,1,1,Yes,No,Yes,0,0,0.22373402
+7799-DSEWS,68.35,1299.8,18,Month-to-month,DSL,0,0,0,Yes,Yes,Yes,0,0,0.28664252
+8859-DZTGQ,20.35,689.75,33,Two year,No,0,0,0,Yes,No,No,0,0,0.0072117746
+9087-EYCPR,25.0,1505.05,60,Two year,No,0,0,0,Yes,No,No,0,0,0.023545198
+0164-APGRB,114.9,8496.7,72,Two year,Fiber optic,0,0,0,Yes,Yes,Yes,0,0,0.021118877
+0623-GDISB,48.45,48.45,1,Month-to-month,DSL,0,0,0,Yes,Yes,No,0,1,0.6322741
+5939-SXWHM,26.3,1245.05,48,Two year,No,0,1,1,Yes,No,No,0,0,0.014968986
+4323-SADQS,34.5,279.25,7,Month-to-month,DSL,0,1,1,No,Yes,Yes,1,0,0.42013615
+3785-KTYSH,24.6,1279.0,53,Two year,No,0,0,0,Yes,No,No,0,0,0.03933298
+4785-QRJHC,59.9,2816.65,46,One year,DSL,1,1,0,No,No,Yes,1,0,0.24686567
+1877-HKBQX,54.6,617.85,11,One year,DSL,0,0,0,Yes,Yes,Yes,0,0,0.09652781
+4929-XIHVW,95.5,181.65,2,Month-to-month,Fiber optic,1,1,0,Yes,No,No,0,1,0.92281264
+0409-WTMPL,110.65,6526.65,58,One year,Fiber optic,0,1,0,Yes,Yes,No,0,0,0.4120962
+1796-JANOW,19.95,38.15,2,Month-to-month,No,0,0,0,Yes,No,No,0,0,0.26115766
+1459-QNFQT,59.5,4144.8,70,Two year,DSL,0,1,1,No,Yes,Yes,0,0,0.015130686
+2969-WGHQO,69.45,477.05,7,One year,DSL,0,1,1,Yes,Yes,No,0,0,0.22256267
+9637-CDTKZ,114.1,8086.4,72,Two year,Fiber optic,0,1,0,Yes,Yes,Yes,0,0,0.016981466
+1935-IMVBB,89.7,4952.95,56,Month-to-month,Fiber optic,0,1,0,Yes,No,No,0,0,0.4137817
+4024-CSNBY,94.25,6849.75,72,Two year,Fiber optic,0,1,0,Yes,Yes,Yes,0,0,0.017325398
+8434-PNQZX,78.45,3373.4,42,Two year,DSL,0,0,0,Yes,No,Yes,0,0,0.019714123
+6179-GJPSO,108.15,4600.7,43,Month-to-month,Fiber optic,1,0,0,Yes,Yes,Yes,1,0,0.3427238
+7542-CYDDM,20.05,358.5,18,Month-to-month,No,0,0,0,Yes,No,No,0,0,0.08779321
+0215-BQKGS,84.3,2438.6,30,Month-to-month,Fiber optic,0,0,0,Yes,Yes,No,0,0,0.3652816
+2519-TWKFS,55.1,1466.1,25,One year,DSL,0,1,1,Yes,No,Yes,0,0,0.07088481
+7426-RHZGU,95.9,827.45,9,Month-to-month,Fiber optic,0,0,0,Yes,No,Yes,0,1,0.79096305
+9959-WOFKT,106.7,7382.25,71,Two year,Fiber optic,0,0,1,Yes,Yes,No,0,0,0.38702938
+9803-FTJCG,66.85,4748.7,71,One year,DSL,0,1,1,Yes,Yes,Yes,0,0,0.022259835
+0310-SUCIN,84.8,6046.1,71,One year,DSL,0,1,0,Yes,Yes,Yes,0,0,0.0762523
+1697-BCSHV,66.8,3970.4,58,Month-to-month,DSL,0,1,1,Yes,No,No,0,0,0.16474278
+2481-SBOYW,25.0,1498.35,61,Two year,No,0,0,1,Yes,No,No,0,0,0.0120820515
+9167-APMXZ,84.15,1821.95,22,Month-to-month,Fiber optic,0,0,0,Yes,No,No,0,1,0.5616099
+1208-NBVFH,49.6,939.8,20,Month-to-month,DSL,0,1,1,Yes,No,No,0,0,0.40019488
+9534-NSXEM,20.65,595.5,26,One year,No,0,0,0,Yes,No,No,0,0,0.022514494
+5060-TQUQN,83.55,2570.2,30,Month-to-month,Fiber optic,0,1,1,Yes,No,Yes,0,0,0.4367425
+2074-GKOWZ,89.55,185.55,2,Month-to-month,Fiber optic,0,1,1,Yes,No,No,1,1,0.8657192
+2055-SIFSS,51.65,2838.55,55,Month-to-month,DSL,1,1,0,Yes,No,No,0,0,0.28111625
+8039-EQPIM,60.25,4055.5,69,Two year,DSL,0,1,0,No,Yes,Yes,0,0,0.018594397
+2506-TNFCO,69.55,69.55,1,Month-to-month,Fiber optic,1,1,0,Yes,No,No,1,1,0.9242103
+0732-OCQOC,25.05,1270.25,52,Two year,No,0,1,1,Yes,No,No,0,0,0.018704435
+0329-GTIAJ,97.9,315.3,3,Month-to-month,Fiber optic,0,0,0,Yes,No,Yes,1,1,0.87877846
+3653-NCRDJ,19.2,776.25,43,One year,No,0,1,1,Yes,No,No,0,0,0.06655048
+7029-RPUAV,100.45,1622.45,17,Month-to-month,Fiber optic,1,1,0,Yes,No,No,1,1,0.7476766
+3205-MXZRA,59.45,1507.0,26,One year,DSL,0,0,0,Yes,No,Yes,0,0,0.13020055
+7394-FKDNK,89.45,853.1,9,Month-to-month,Fiber optic,0,1,0,Yes,No,No,1,1,0.73527604
+6233-HXJMX,89.3,4192.15,45,Month-to-month,Fiber optic,0,0,0,Yes,No,No,0,1,0.5201487
+0481-SUMCB,102.15,4735.35,45,One year,Fiber optic,1,0,0,Yes,No,No,0,1,0.4926198
+8383-SGHJU,59.4,1952.8,33,One year,DSL,0,0,0,Yes,Yes,Yes,0,0,0.05448839
+4350-ZTLPI,108.95,5718.2,53,One year,Fiber optic,0,1,0,Yes,No,Yes,0,0,0.4332555
+8433-WPJTV,103.9,6767.1,65,One year,Fiber optic,1,1,1,Yes,No,Yes,0,0,0.15989009
+7486-KSRVI,100.0,4211.55,43,One year,Fiber optic,0,0,0,Yes,No,Yes,1,0,0.32536623
+1436-ZMJAN,67.8,653.15,10,Month-to-month,DSL,0,1,0,Yes,No,No,0,0,0.32933444
+5266-PFRQK,20.85,1071.6,52,One year,No,0,1,1,Yes,No,No,0,0,0.024919007
+9530-EHPOH,53.75,608.0,11,Month-to-month,DSL,0,0,0,Yes,No,No,1,0,0.35583693
+8063-GBATB,85.25,2287.25,27,Month-to-month,Fiber optic,1,0,0,Yes,No,No,1,1,0.77371216
+4873-ILOLJ,90.35,2238.5,24,Month-to-month,Fiber optic,0,0,0,Yes,No,No,1,1,0.6522223
+2868-MZAGQ,79.25,79.25,1,Month-to-month,Fiber optic,0,0,0,Yes,No,No,1,1,0.9238887
+6067-NGCEU,111.05,7107.0,65,Month-to-month,Fiber optic,0,0,0,Yes,Yes,No,0,0,0.19358508
+5043-TRZWM,75.55,75.55,1,Month-to-month,Fiber optic,0,0,0,Yes,No,No,0,1,0.92549145
+5989-AXPUC,118.6,7990.05,68,Two year,Fiber optic,0,1,0,Yes,Yes,Yes,0,0,0.10379462
+5937-EORGB,96.5,1392.25,15,Month-to-month,Fiber optic,1,1,0,Yes,Yes,No,0,1,0.836055
+7541-YLXCL,65.4,2498.4,36,One year,DSL,0,0,0,Yes,No,Yes,1,0,0.17801484
+7878-JGDKK,44.55,220.75,4,Month-to-month,DSL,0,0,0,Yes,No,No,0,1,0.5494408
+1370-GGAWX,94.15,4408.45,46,One year,Fiber optic,0,0,0,Yes,No,No,0,0,0.26011845
+7410-KTVFV,49.55,878.35,18,Month-to-month,DSL,0,1,0,Yes,No,No,1,0,0.27449873
+3780-DDGSE,76.05,2747.2,35,Month-to-month,DSL,1,1,1,Yes,No,Yes,0,0,0.259608
+4742-TXUEX,19.3,890.5,47,Two year,No,0,1,1,Yes,No,No,0,0,0.016303869
+4879-GZLFH,92.15,3875.4,42,Month-to-month,Fiber optic,0,1,1,Yes,No,No,0,1,0.46465644
+6124-ACRHJ,19.75,19.75,1,Month-to-month,No,0,0,0,Yes,No,No,0,1,0.49124023
+3166-PNEOF,86.45,5175.3,61,Two year,DSL,0,0,0,Yes,Yes,Yes,0,0,0.027327014
+6384-VMJHP,73.0,5265.2,72,Two year,DSL,0,0,0,Yes,Yes,Yes,0,0,0.010570788
+7998-ZLXWN,20.45,330.8,15,Month-to-month,No,0,1,0,Yes,No,No,0,0,0.2114865
+8640-SDGKB,74.4,299.7,4,Month-to-month,DSL,0,0,0,Yes,No,Yes,1,1,0.46127594
+8084-OIVBS,20.0,211.95,11,One year,No,0,0,0,Yes,No,No,0,0,0.076095134
+1769-GRUIK,71.1,1247.75,18,Month-to-month,Fiber optic,0,0,0,Yes,No,No,0,1,0.63063073
+4553-DVPZG,101.35,6164.7,62,Month-to-month,Fiber optic,0,1,0,Yes,No,No,0,1,0.675627
+2905-KFQUV,70.4,154.8,2,Month-to-month,Fiber optic,0,1,0,Yes,No,No,0,1,0.74054736
+4526-ZJJTM,88.4,2191.15,25,Month-to-month,Fiber optic,1,1,0,Yes,No,No,0,1,0.5114524
+6215-NQCPY,99.7,1566.75,15,Month-to-month,Fiber optic,0,0,0,Yes,Yes,No,0,1,0.8565039
+3649-JPUGY,88.6,6201.95,72,Two year,DSL,0,0,0,Yes,No,Yes,0,0,0.010373874
+3703-TTEPD,65.35,1424.4,21,Month-to-month,DSL,0,0,0,Yes,Yes,No,0,0,0.25977048
+0971-QIFJK,24.25,1641.8,69,Two year,No,0,1,0,Yes,No,No,0,0,0.008965693
+2669-OIDSD,100.05,4834.0,48,Month-to-month,Fiber optic,0,1,0,Yes,No,Yes,0,0,0.31337464
+7595-EHCDL,50.6,1653.45,32,Month-to-month,DSL,0,1,1,No,No,No,0,0,0.28496134
+3701-SFMUH,69.7,516.15,7,Month-to-month,DSL,0,1,1,Yes,Yes,No,0,0,0.3716432
+3585-YNADK,74.6,4368.95,57,One year,DSL,0,1,0,Yes,No,Yes,0,0,0.044804323
+0516-VRYBW,20.15,390.85,18,One year,No,0,0,1,Yes,No,No,1,0,0.0376891
+4307-KWMXE,35.75,389.8,10,Month-to-month,DSL,0,0,0,No,No,Yes,0,0,0.28587604
+2868-SNELZ,80.6,155.8,2,Month-to-month,Fiber optic,0,0,0,Yes,No,No,1,1,0.8393023
+2468-SJFLM,74.3,74.3,1,Month-to-month,Fiber optic,0,0,0,Yes,No,Yes,0,1,0.77391994
+5792-JALQC,59.85,3103.25,52,Two year,DSL,1,0,0,Yes,Yes,No,0,0,0.052085314
+7321-PKUYW,90.15,987.95,11,Month-to-month,Fiber optic,0,0,0,Yes,No,Yes,1,1,0.69744766
+3638-WEABW,59.9,3505.1,58,Two year,DSL,0,1,0,Yes,No,Yes,0,0,0.03808573
+8290-YWKHZ,93.2,2931.0,32,Month-to-month,Fiber optic,1,1,0,Yes,No,No,1,1,0.7306739
+7159-FVYPK,69.15,235.0,3,Month-to-month,DSL,0,1,1,Yes,No,No,0,1,0.5387038
+3838-OZURD,105.0,7133.25,66,Month-to-month,Fiber optic,0,1,0,Yes,No,No,1,1,0.44430405
+7526-BEZQB,96.05,1148.1,12,Month-to-month,Fiber optic,0,0,0,Yes,No,No,1,1,0.8886219
+5204-QZXPU,39.65,733.35,19,Month-to-month,DSL,0,0,0,No,No,No,1,1,0.66387016
+6265-SXWBU,95.75,6511.25,69,One year,Fiber optic,0,1,1,Yes,No,No,0,0,0.11423143
+0380-ZCSBI,20.0,198.7,10,Month-to-month,No,0,0,0,Yes,No,No,0,0,0.22831129
+1641-RQDAY,100.4,3217.65,32,Month-to-month,Fiber optic,1,1,1,Yes,No,No,0,1,0.7761403
+0621-TWIEM,45.55,402.6,10,Month-to-month,DSL,0,0,0,Yes,No,No,1,1,0.5000109
+2612-PHGOX,76.1,4818.8,64,Two year,DSL,0,1,0,Yes,No,Yes,0,0,0.10432491
+3694-DELSO,38.55,156.1,4,Month-to-month,DSL,0,1,1,No,Yes,No,0,1,0.6135427
+6479-SZPLM,19.45,754.5,36,Two year,No,0,1,1,Yes,No,No,0,0,0.0074390364
+7743-EXURX,51.05,415.05,8,Month-to-month,DSL,0,1,1,Yes,No,No,1,0,0.41430932
+5222-IMUKT,91.05,2871.5,32,Month-to-month,Fiber optic,0,0,0,Yes,No,No,0,1,0.55808836
+2933-FILNV,24.4,36.55,2,Month-to-month,DSL,0,1,1,No,No,No,1,1,0.67453945
+9648-BCHKM,24.65,471.35,18,Two year,No,0,1,1,Yes,No,No,0,0,0.015460657
+9257-AZMTZ,20.1,1078.75,52,Two year,No,0,1,1,Yes,No,No,0,0,0.018080512
+7964-YESJC,66.3,1559.45,24,Month-to-month,DSL,0,1,0,Yes,Yes,No,0,0,0.16048896
+5501-TVMGM,55.25,55.25,1,Month-to-month,DSL,0,0,0,Yes,No,No,0,1,0.81187093
+8295-FHIVV,19.4,168.65,7,Month-to-month,No,0,0,0,Yes,No,No,0,0,0.33188367
+2754-SDJRD,100.15,908.55,8,Month-to-month,Fiber optic,1,0,0,Yes,No,Yes,0,1,0.8811587
+7296-PIXQY,70.2,1046.5,14,Month-to-month,Fiber optic,0,1,1,Yes,No,No,0,1,0.60968703
+2592-HODOV,19.3,259.65,13,One year,No,0,0,0,Yes,No,No,0,0,0.08185015
+2931-SVLTV,110.1,4469.1,40,Month-to-month,Fiber optic,0,1,1,Yes,Yes,Yes,0,0,0.40904626
+5297-MDOIR,81.15,5224.5,63,One year,Fiber optic,0,1,0,Yes,Yes,No,0,0,0.062324483
+5453-AXEPF,80.5,1336.9,17,Month-to-month,Fiber optic,0,1,0,Yes,No,No,0,1,0.53268087
+0168-XZKBB,86.85,1564.4,19,Month-to-month,Fiber optic,0,1,0,Yes,No,No,0,1,0.7549873
+5392-AKEMH,45.05,523.1,12,Month-to-month,DSL,0,0,0,Yes,No,No,0,1,0.4771839
+0804-YGEQV,24.45,993.15,43,One year,No,0,1,1,Yes,No,No,0,0,0.015196468
+9492-TOKRI,90.0,1527.35,18,Month-to-month,Fiber optic,0,0,0,Yes,No,No,1,1,0.55473125
+4163-KIUHY,25.6,901.25,35,Month-to-month,No,0,0,0,Yes,No,No,0,0,0.12239356
+8708-XPXHZ,94.2,4186.3,42,Month-to-month,Fiber optic,0,1,1,Yes,No,No,1,1,0.61932695
+2863-IMQDR,89.65,5308.7,61,Two year,DSL,0,0,0,Yes,Yes,Yes,0,0,0.03300317
+2237-ZFSMY,95.55,3692.85,39,One year,Fiber optic,0,0,0,Yes,Yes,Yes,1,0,0.14984605
+3744-ZRRDZ,82.35,1852.85,21,Month-to-month,Fiber optic,0,0,0,Yes,No,No,1,1,0.7197849
+3645-DEYGF,20.75,20.75,1,Month-to-month,No,0,0,1,Yes,No,No,0,1,0.49097762
+6762-QVYJO,59.75,3624.35,58,Two year,DSL,0,1,1,No,Yes,Yes,0,0,0.028640522
+5868-YTYKS,20.25,20.25,1,Month-to-month,No,0,0,1,Yes,No,No,0,1,0.6222171
+9814-AOUDH,19.5,1050.5,53,Two year,No,0,0,0,Yes,No,No,0,0,0.122021995
+8515-OCTJS,24.75,692.1,25,Two year,No,0,0,0,Yes,No,No,1,0,0.01724272
+6872-HXFNF,58.35,3756.45,64,One year,DSL,0,1,0,Yes,No,Yes,0,0,0.028352907
+5673-FSSMF,60.15,60.15,1,Month-to-month,DSL,0,0,0,Yes,No,No,1,1,0.8311512
+3223-DWFIO,69.35,261.65,4,Month-to-month,Fiber optic,1,0,0,Yes,No,No,0,1,0.6517673
+6637-KYRCV,30.5,167.2,5,Month-to-month,DSL,0,1,1,No,No,No,0,1,0.66190153
+2270-CHBFN,95.1,4060.55,44,Month-to-month,Fiber optic,0,1,0,Yes,Yes,Yes,0,0,0.21159227
+7774-OJSXI,103.45,3066.45,31,One year,Fiber optic,0,0,0,Yes,No,No,1,0,0.41578662
+5318-IXUZF,87.15,183.75,2,Month-to-month,Fiber optic,0,0,0,Yes,No,No,1,1,0.904898
+2223-GDSHL,116.05,8297.5,71,Two year,Fiber optic,0,1,1,Yes,Yes,Yes,0,0,0.09485941
+6479-VDGRK,85.3,6129.2,72,Two year,DSL,0,1,1,Yes,Yes,Yes,0,0,0.008497979
+4114-QMKVN,68.75,3815.4,56,One year,DSL,0,1,1,Yes,Yes,No,0,0,0.1520002
+5474-LAMUQ,20.1,533.9,24,One year,No,0,1,0,Yes,No,No,0,0,0.013994379
+5445-GLVOT,49.8,1049.05,22,Month-to-month,DSL,0,0,0,Yes,Yes,No,0,1,0.53770953
+2616-UUTFK,72.75,2447.45,33,Month-to-month,DSL,0,1,0,Yes,Yes,No,0,0,0.24449977
+7609-YBPXG,87.1,4735.2,54,Two year,DSL,0,0,0,Yes,Yes,Yes,0,0,0.048790537
+6100-FJZDG,20.05,505.9,26,One year,No,0,1,1,Yes,No,No,0,0,0.019414151
+6890-PFRQX,69.5,1199.4,18,Month-to-month,DSL,0,0,0,Yes,Yes,No,0,0,0.28186554
+3776-EKTKM,36.45,36.45,1,Month-to-month,DSL,1,0,0,No,No,No,1,1,0.89202005
+4547-LYTDD,72.65,1194.3,16,Month-to-month,Fiber optic,0,0,0,Yes,No,No,1,1,0.63736707
+7312-XSBAT,49.75,49.75,1,Month-to-month,DSL,0,0,0,Yes,Yes,No,0,1,0.5602526
+2595-KIWPV,19.7,509.3,27,Two year,No,0,0,1,Yes,No,No,0,0,0.012461982
+3473-XIIIT,100.0,1534.75,16,Month-to-month,Fiber optic,0,1,0,Yes,No,No,1,1,0.8484019
+3057-VJJQE,55.25,1924.1,35,Two year,DSL,0,0,0,Yes,Yes,No,0,0,0.016512612
+9445-SZLCH,97.35,3457.9,36,Month-to-month,Fiber optic,0,1,1,Yes,No,No,1,1,0.5325257
+3990-QYKBE,92.5,3473.4,37,Month-to-month,Fiber optic,1,1,0,Yes,No,No,1,1,0.6730412
+4676-MQUEA,101.9,5265.5,50,One year,Fiber optic,1,1,0,Yes,Yes,No,0,0,0.21864593
+0076-LVEPS,45.0,1242.45,29,Month-to-month,DSL,0,0,1,No,Yes,Yes,0,0,0.0642615
+7206-GZCDC,69.25,69.25,1,Month-to-month,Fiber optic,1,0,0,Yes,No,No,1,1,0.9281664
+4849-PYRLQ,73.25,4054.2,56,Two year,DSL,1,0,0,Yes,Yes,Yes,0,0,0.02406825
+6015-VVHHE,83.15,446.05,5,Month-to-month,Fiber optic,1,0,0,Yes,No,No,1,1,0.83310413
+1389-WNUIB,76.0,1588.75,20,One year,DSL,0,1,1,Yes,Yes,No,0,0,0.27459067
+6147-CBCRA,20.05,669.45,33,Month-to-month,No,0,1,0,Yes,No,No,0,0,0.05216796
+4676-WLUHT,46.2,2431.95,54,Two year,DSL,0,0,0,No,Yes,No,0,0,0.050220095
+0440-EKDCF,60.15,3753.2,62,Two year,DSL,0,1,0,Yes,No,Yes,0,0,0.028773466
+7167-PCEYD,19.8,1311.3,67,Two year,No,0,0,0,Yes,No,No,0,0,0.012674387
+5456-ITGIC,64.45,4641.1,72,Two year,DSL,1,1,0,No,Yes,Yes,0,0,0.012418183
+4195-PNGZS,24.45,1718.2,69,Two year,No,0,1,1,Yes,No,No,0,0,0.00834691
+1306-RPWXZ,20.45,1024.65,49,Two year,No,0,0,1,Yes,No,No,0,0,0.016217684
+2851-STERV,73.0,2471.25,35,One year,DSL,1,0,0,Yes,No,Yes,0,0,0.16045116
+5502-RLUYV,103.95,7446.9,69,Month-to-month,Fiber optic,0,1,1,Yes,No,No,1,1,0.53310245
+7279-BUYWN,113.2,4689.5,41,Month-to-month,Fiber optic,1,0,0,Yes,Yes,No,1,1,0.65304595
+8331-ZXFOE,71.1,4299.2,58,One year,DSL,0,0,0,Yes,Yes,Yes,0,0,0.073831975
+1122-JWTJW,70.65,70.65,1,Month-to-month,Fiber optic,0,1,1,Yes,No,No,1,1,0.88346577
+7531-GQHME,20.05,265.45,12,Month-to-month,No,0,0,0,Yes,No,No,0,0,0.2338721
+2804-ETQDK,20.55,1357.1,66,Two year,No,0,0,1,Yes,No,No,0,0,0.010238479
+5816-SCGFC,51.3,419.35,7,Month-to-month,DSL,1,0,0,Yes,No,No,0,0,0.37739822
+0442-ZXKVS,115.6,6431.05,54,One year,Fiber optic,1,1,0,Yes,Yes,Yes,0,0,0.35675177
+4277-BWBML,19.95,1322.85,72,Two year,No,0,1,1,Yes,No,No,0,0,0.0070749777
+7599-FKVXZ,106.15,4512.7,42,Month-to-month,Fiber optic,0,1,0,Yes,No,Yes,1,1,0.52526045
+0388-EOPEX,74.4,139.4,2,Month-to-month,Fiber optic,0,1,0,Yes,Yes,No,1,1,0.5684579
+5651-CPDND,46.0,492.1,10,Month-to-month,DSL,0,0,0,Yes,No,No,0,0,0.30466598
+5089-IFSDP,109.45,6144.55,58,Two year,Fiber optic,0,1,0,Yes,Yes,No,1,0,0.30924103
+7102-JJVTX,48.6,422.3,9,One year,DSL,0,1,1,Yes,Yes,No,0,0,0.09963632
+3707-LRWZD,84.05,2781.85,32,One year,Fiber optic,0,0,0,Yes,No,No,1,0,0.17998913
+5955-EPOAZ,20.95,109.5,6,Month-to-month,No,0,0,0,Yes,No,No,0,0,0.24683963
+7516-GMHUV,105.05,5163.3,50,Two year,Fiber optic,1,1,0,Yes,Yes,No,0,0,0.29542562
+8727-JQFHV,20.75,1123.15,57,Two year,No,0,1,1,Yes,No,No,0,0,0.029248584
+2332-TODQS,25.05,1171.5,48,One year,No,0,0,0,Yes,No,No,0,0,0.026029037
+1450-SKCVI,73.85,4092.85,56,Month-to-month,Fiber optic,0,0,0,Yes,No,No,1,0,0.26518476
+0639-TSIQW,102.95,6886.25,67,Month-to-month,Fiber optic,0,0,0,Yes,Yes,No,1,0,0.24998969
+8626-PTQGE,60.05,4176.7,69,Two year,DSL,0,0,0,No,Yes,Yes,0,0,0.017918149
+4816-LXZYW,79.15,1676.95,23,Month-to-month,Fiber optic,0,0,0,Yes,No,No,1,1,0.7037715
+8752-IMQOS,20.1,85.1,5,One year,No,0,1,1,Yes,No,No,0,0,0.06516069
+6946-LMSQS,89.05,2177.45,25,One year,Fiber optic,1,1,0,Yes,Yes,No,1,0,0.23572691
+6326-MTTXK,100.85,819.55,8,Month-to-month,Fiber optic,0,0,0,Yes,No,No,1,1,0.7701236
+3707-GNWHM,74.25,74.25,1,Month-to-month,Fiber optic,0,0,0,Yes,No,No,1,1,0.8912781
+1602-IJQQE,75.35,338.1,4,Month-to-month,Fiber optic,0,0,0,Yes,No,No,1,1,0.7942728
+5906-DVAPM,75.0,4213.9,55,One year,DSL,0,1,1,Yes,Yes,Yes,0,0,0.047144078
+2722-JMONI,49.55,49.55,1,Month-to-month,DSL,1,1,0,Yes,Yes,No,1,1,0.6633587
+6223-DHJGV,20.65,958.1,42,One year,No,0,0,0,Yes,No,No,0,0,0.018605478
+0585-EGDDA,80.0,3168.75,40,Month-to-month,Fiber optic,0,1,0,Yes,No,No,0,1,0.67411244
+3146-JTQHR,19.6,189.45,10,One year,No,0,1,0,Yes,No,No,0,0,0.11815651
+3068-OMWZA,88.8,88.8,1,Month-to-month,Fiber optic,1,0,0,Yes,No,No,1,1,0.9439211
+9938-EKRGF,84.45,1287.85,15,Month-to-month,DSL,0,0,0,Yes,Yes,Yes,0,0,0.34022504
+7105-MXJLL,60.7,1597.4,26,One year,DSL,1,1,0,Yes,No,No,0,0,0.1654535
+1984-FCOWB,109.5,7674.55,70,One year,Fiber optic,0,1,0,Yes,No,Yes,1,0,0.25937212
+2796-NNUFI,19.95,927.1,46,Two year,No,0,1,1,Yes,No,No,0,0,0.012159232
+6789-HJBWG,49.4,611.65,12,Month-to-month,DSL,0,0,0,Yes,No,No,0,0,0.42740935
+9283-LZQOH,74.4,896.75,13,Month-to-month,Fiber optic,0,1,1,Yes,No,No,1,1,0.49246
+7596-LDUXP,85.15,979.05,12,One year,Fiber optic,0,0,0,Yes,Yes,No,0,0,0.20621625
+6616-AALSR,104.3,6725.3,65,Two year,Fiber optic,0,1,1,Yes,Yes,No,0,0,0.0681001
+8878-HMWBV,49.15,169.05,3,Month-to-month,DSL,0,0,0,Yes,No,No,1,1,0.6969817
+3043-SUDUA,19.9,601.55,32,Month-to-month,No,0,0,0,Yes,No,No,0,0,0.06196153
+8919-FYFQZ,30.35,1359.7,44,Month-to-month,DSL,1,1,0,No,No,No,1,1,0.51243794
+1660-HSOOQ,49.65,49.65,1,Month-to-month,DSL,0,0,0,Yes,No,No,1,1,0.6668739
+3569-EDBPQ,84.35,1938.05,24,Month-to-month,Fiber optic,0,0,0,Yes,Yes,Yes,0,1,0.5407721
+7255-SSFBC,112.25,8041.65,72,Two year,Fiber optic,0,1,1,Yes,No,Yes,0,0,0.041175555
+1194-BHJYC,62.15,3778.85,61,Two year,DSL,0,1,0,No,Yes,Yes,0,0,0.024161337
+6849-WLEYG,19.75,19.75,1,Month-to-month,No,0,0,1,Yes,No,No,1,1,0.48623613
+6981-TDRFT,54.3,2317.1,44,One year,DSL,0,1,1,No,No,Yes,0,0,0.21713343
+8028-PNXHQ,24.25,1424.6,62,Two year,No,0,1,1,Yes,No,No,0,0,0.0110813845
+4182-BGSIQ,19.8,196.75,10,Month-to-month,No,0,1,1,Yes,No,No,0,0,0.27285844
+1502-XFCVR,106.45,6145.85,58,One year,Fiber optic,0,0,0,Yes,Yes,No,1,0,0.37221897
+6960-HVYXR,76.0,76.0,1,Month-to-month,Fiber optic,0,0,0,Yes,No,No,1,1,0.92084175
+3726-TBHQT,114.0,8175.9,71,Two year,Fiber optic,0,1,1,Yes,Yes,Yes,0,0,0.09487129
+9564-KCLHR,51.25,51.25,1,Month-to-month,DSL,0,0,0,Yes,No,Yes,1,1,0.800333
+1840-BIUOG,68.7,1416.2,20,One year,DSL,0,0,0,Yes,No,Yes,0,0,0.25109452
+9885-CSMWE,78.45,78.45,1,Month-to-month,Fiber optic,1,0,0,Yes,No,No,1,1,0.9441553
+3589-PPVKW,44.4,348.15,9,Month-to-month,DSL,0,0,0,Yes,No,No,0,0,0.4042905
+2521-NPUZR,101.0,7085.5,70,Two year,Fiber optic,0,1,0,Yes,Yes,Yes,0,0,0.065271564
+9640-ZSLDC,60.6,3297.0,53,One year,DSL,0,1,1,Yes,No,No,0,0,0.15905759
+4801-KFYKL,19.45,159.2,8,Month-to-month,No,0,0,1,Yes,No,No,0,0,0.23127079
+6505-OZNPG,63.4,348.8,6,Two year,DSL,0,0,0,No,Yes,Yes,0,0,0.04672426
+4189-NAKJS,51.55,1295.4,26,One year,DSL,0,0,0,Yes,No,No,0,0,0.10076054
+2452-SNHFZ,75.45,3545.1,47,Month-to-month,Fiber optic,0,0,0,Yes,Yes,No,0,0,0.34418634
+3541-ZNUHK,85.1,4600.95,55,Month-to-month,Fiber optic,0,1,1,Yes,Yes,No,0,0,0.2646336
+7632-MNYOY,110.9,7432.05,66,One year,Fiber optic,1,0,0,Yes,No,Yes,1,0,0.3399987
+6302-JGYRJ,79.45,2587.7,31,One year,DSL,0,0,1,Yes,No,Yes,1,0,0.15866792
+1422-DGUBX,79.25,2619.15,32,One year,Fiber optic,0,1,0,Yes,No,Yes,0,0,0.33657506
+5458-CQJTA,74.8,4820.15,65,Two year,DSL,0,1,1,Yes,Yes,Yes,1,0,0.03133585
+4193-ORFCL,45.1,45.1,1,Month-to-month,DSL,1,0,0,Yes,No,No,1,1,0.72870886
+2439-QKJUL,20.25,109.8,5,Month-to-month,No,0,0,0,Yes,No,No,0,0,0.2252273
+0820-FNRNX,66.7,1077.05,17,Month-to-month,DSL,0,1,1,Yes,No,Yes,0,0,0.19280688
+3486-KHMLI,24.7,467.15,21,Month-to-month,No,0,0,1,Yes,No,No,0,0,0.08989448
+5146-YYFRZ,19.95,1311.75,67,Two year,No,0,0,0,Yes,No,No,0,0,0.012063965
+6873-UDNLD,67.45,2731.0,40,Month-to-month,DSL,0,0,0,Yes,Yes,No,0,0,0.21713932
+5893-KCLGT,19.75,1567.0,72,Two year,No,0,0,1,Yes,No,No,0,0,0.012613459
+7377-DMMRI,47.8,92.45,2,Month-to-month,DSL,0,0,0,Yes,Yes,No,1,1,0.6754855
+6496-SLWHQ,105.0,294.45,3,Month-to-month,Fiber optic,1,0,0,Yes,No,No,1,1,0.8956326
+8109-YUOHE,56.1,946.95,17,One year,DSL,0,0,0,Yes,Yes,No,0,0,0.10481176
+9896-UYMIE,114.3,7383.7,66,One year,Fiber optic,0,0,0,Yes,Yes,Yes,0,0,0.25028622
+1131-SUEKT,98.45,6145.2,61,One year,Fiber optic,0,1,1,Yes,No,Yes,0,0,0.25597724
+2931-FSOHN,59.9,788.35,13,Month-to-month,DSL,1,0,0,Yes,No,No,0,1,0.48120788
+7446-SFAOA,19.85,717.5,37,One year,No,0,1,0,Yes,No,No,0,0,0.016675914
+7825-ECJRF,106.6,1934.45,19,Month-to-month,Fiber optic,0,0,0,Yes,Yes,Yes,1,1,0.6138547
+7560-QRBXH,19.95,936.7,48,One year,No,0,0,1,Yes,No,No,0,0,0.022659779
+3518-PZXZQ,55.3,55.3,1,Month-to-month,DSL,0,1,0,Yes,No,No,0,1,0.82673293
+2826-DXLQO,29.8,220.45,7,Month-to-month,DSL,1,1,0,No,Yes,No,0,1,0.49270743
+0516-UXRMT,92.05,5755.8,62,One year,Fiber optic,0,0,0,Yes,Yes,No,0,0,0.06484446
+7587-AOVVU,100.75,2793.55,27,Month-to-month,Fiber optic,0,1,1,Yes,Yes,Yes,0,1,0.59608483
+8859-AXJZP,23.8,903.8,39,Two year,No,0,1,1,Yes,No,No,0,0,0.0063180127
+4662-EKDPQ,62.05,118.3,2,Month-to-month,DSL,0,0,0,Yes,No,No,1,1,0.46398985
+2839-RFSQE,20.65,38.7,2,Month-to-month,No,0,0,0,Yes,No,No,1,0,0.26942053
+6362-QHAFM,108.3,4586.15,42,One year,Fiber optic,0,1,0,Yes,No,Yes,0,1,0.5212984
+6298-QDFNH,79.35,1730.35,22,Month-to-month,Fiber optic,0,0,0,Yes,No,No,1,1,0.71553576
+7586-ZATGZ,84.9,3369.05,40,Month-to-month,Fiber optic,0,0,0,Yes,No,No,0,1,0.6396236
+6559-RAKOZ,97.95,4917.9,49,One year,Fiber optic,0,1,1,Yes,No,Yes,0,0,0.3770847
+4566-QVRRW,44.05,483.7,11,Month-to-month,DSL,0,1,0,Yes,No,No,1,1,0.48658293
+8931-GJJIQ,83.3,803.3,9,Month-to-month,Fiber optic,0,0,0,Yes,No,No,1,1,0.79194367
+5377-NDTOU,91.05,6293.75,71,Two year,DSL,0,1,1,Yes,Yes,Yes,0,0,0.011967208
+3170-GWYKC,104.95,6236.75,60,Month-to-month,Fiber optic,0,0,0,Yes,Yes,Yes,0,0,0.2484212
+3808-HFKDE,44.35,927.15,20,Month-to-month,DSL,0,0,0,Yes,No,No,0,1,0.48107502
+1352-HNSAW,115.6,8220.4,72,Two year,Fiber optic,0,1,1,Yes,Yes,Yes,0,0,0.0184656
+1455-HFBXA,91.6,4627.8,52,Two year,Fiber optic,0,1,0,Yes,Yes,Yes,0,0,0.0969526
+1951-IEYXM,90.6,6441.85,72,Two year,DSL,0,1,1,Yes,Yes,Yes,0,0,0.007684997
+1237-WIYYZ,19.55,389.25,18,Month-to-month,No,0,0,0,Yes,No,No,0,0,0.13398592
+0018-NYROU,68.95,351.5,5,Month-to-month,Fiber optic,0,1,0,Yes,No,No,0,1,0.7144023
+4393-GEADV,114.75,7842.3,70,Two year,Fiber optic,0,1,1,Yes,Yes,Yes,0,0,0.24703768
+8582-KRHPJ,35.0,1782.4,50,Month-to-month,DSL,0,0,0,No,Yes,No,0,0,0.14405327
+0885-HMGPY,69.4,4237.5,62,Two year,DSL,0,0,0,Yes,Yes,Yes,0,0,0.027745176
+0916-KNFAJ,69.9,4226.7,61,Two year,DSL,0,1,0,Yes,Yes,No,0,0,0.02449
+4877-EVATK,20.0,20.0,1,Month-to-month,No,0,0,0,Yes,No,No,1,1,0.47555298
+9442-JTWDL,20.05,237.7,11,One year,No,0,0,0,Yes,No,No,0,0,0.07862715
+9938-ZREHM,72.1,2658.4,37,One year,DSL,0,1,0,Yes,No,Yes,0,0,0.17251255
+6425-JWTDV,19.25,855.1,48,Two year,No,0,1,0,Yes,No,No,0,0,0.023818443
+1271-SJBGZ,43.65,526.95,12,Month-to-month,DSL,1,0,0,No,No,Yes,1,1,0.49039027
+9489-DEDVP,69.2,4872.35,70,Two year,DSL,0,1,1,Yes,Yes,No,0,0,0.060426336
+5707-ORNDZ,54.55,494.05,9,Month-to-month,DSL,1,0,0,Yes,Yes,No,1,0,0.43139204
+3085-QUOZK,43.95,43.95,1,Month-to-month,DSL,0,0,0,Yes,No,No,1,1,0.6070218
+8821-XNHVZ,80.05,80.05,1,Month-to-month,Fiber optic,0,1,1,Yes,No,No,1,1,0.8843677
+2832-KJCRD,103.65,3988.5,38,Month-to-month,Fiber optic,0,0,0,Yes,No,Yes,0,1,0.67813087
+9494-MRNYX,75.05,786.3,10,Month-to-month,Fiber optic,0,0,0,Yes,No,No,0,1,0.68468034
+6297-NOOPG,110.5,7752.05,70,Two year,Fiber optic,0,1,0,Yes,No,Yes,0,0,0.13798133
+6704-UTUKK,45.9,1332.4,29,Month-to-month,DSL,0,1,0,No,No,No,0,1,0.46703225
+1307-TVUFB,79.35,3344.1,42,Month-to-month,Fiber optic,1,0,0,Yes,No,No,0,1,0.65442693
+4335-UPJSI,19.75,498.1,24,Two year,No,0,0,1,Yes,No,No,0,0,0.009731417
+8490-BXHEO,80.55,1411.65,18,Month-to-month,Fiber optic,1,0,0,Yes,No,No,0,1,0.58333516
+5376-PCKNB,104.45,7459.0,72,One year,Fiber optic,0,1,1,Yes,No,No,0,0,0.13230711
+1421-HCERK,105.7,3181.8,30,Month-to-month,Fiber optic,1,1,0,Yes,Yes,Yes,0,1,0.4925865
+6288-CHQJB,69.95,3871.85,54,Two year,DSL,0,1,1,Yes,Yes,Yes,0,0,0.024983492
+1265-HVPZB,66.4,3958.2,59,One year,DSL,0,1,0,Yes,Yes,No,0,0,0.10080475
+4550-VBOFE,102.95,7101.5,70,Month-to-month,Fiber optic,1,1,0,Yes,No,No,1,0,0.39540482
+6461-SZMCV,87.95,6365.35,71,Two year,DSL,0,1,0,Yes,Yes,Yes,0,0,0.012623808
+2418-TPEUN,19.8,1119.9,56,Two year,No,0,1,1,Yes,No,No,0,0,0.020785011
+9866-QEVEE,86.0,1532.45,19,Month-to-month,Fiber optic,0,0,0,Yes,No,No,1,1,0.60044974
+6917-YACBP,89.75,5496.9,59,Month-to-month,Fiber optic,1,0,0,Yes,Yes,No,0,0,0.25293627
+5016-LIPDW,19.4,1061.6,57,One year,No,0,1,1,Yes,No,No,0,0,0.049147826
+0625-AFOHS,20.2,558.8,29,Two year,No,0,1,1,Yes,No,No,0,0,0.0069980505
+3612-YVGSJ,24.45,1681.6,71,Two year,No,0,1,0,Yes,No,No,0,0,0.0078610275
+7748-UMTRK,101.3,2974.5,30,Month-to-month,Fiber optic,1,0,1,Yes,No,Yes,0,1,0.71874744
+8680-CGLTP,58.75,1696.2,29,One year,DSL,0,0,0,Yes,Yes,Yes,0,0,0.102226034
+8992-OBVDG,61.65,1393.6,21,Month-to-month,DSL,0,0,0,Yes,No,No,0,0,0.2606394
+2808-CHTDM,25.1,611.45,23,Two year,No,0,1,1,Yes,No,No,0,0,0.008717979
+6483-OATDN,51.3,411.6,8,Month-to-month,DSL,0,1,1,Yes,Yes,No,0,0,0.29134578
+2967-MXRAV,18.8,18.8,1,One year,No,0,1,1,Yes,No,No,0,0,0.28468928
+3948-FVVRP,54.8,452.8,9,Month-to-month,DSL,0,1,1,Yes,No,Yes,0,0,0.24312475
+9685-WKZGT,74.95,1036.75,14,Month-to-month,Fiber optic,1,0,0,Yes,No,No,1,1,0.7726441
+6907-CQGPN,34.3,1004.75,29,Month-to-month,DSL,0,0,0,No,No,Yes,0,0,0.2549004
+3580-HYCSP,110.3,7966.9,72,Two year,Fiber optic,0,1,1,Yes,Yes,No,0,0,0.026792618
+1480-IVEVR,81.6,2815.25,35,One year,Fiber optic,1,1,0,Yes,No,No,0,0,0.26077566
+2363-BJLSL,80.4,4981.15,62,Month-to-month,DSL,0,0,0,Yes,No,Yes,0,0,0.09950996
+9000-PLFUZ,49.45,2907.55,60,Two year,DSL,1,1,0,No,No,No,0,0,0.048722785
+6556-DBKZF,76.05,5436.45,71,Two year,Fiber optic,0,1,1,Yes,No,No,0,0,0.053313095
+4567-AKPIA,109.1,4454.25,41,One year,Fiber optic,0,1,1,Yes,No,Yes,0,0,0.33892834
+4232-JGKIY,19.2,19.2,1,Month-to-month,No,0,0,0,Yes,No,No,0,0,0.3637301
+3936-QQFLL,19.75,39.3,2,Month-to-month,No,0,0,0,Yes,No,No,0,0,0.3488524
+9692-TUSXH,96.05,1740.7,18,Month-to-month,Fiber optic,0,0,0,Yes,Yes,No,1,1,0.72060615
+0804-XBFBV,25.2,321.05,11,Month-to-month,DSL,0,0,1,No,No,No,0,1,0.49727955
+7173-TETGO,78.5,5602.25,72,Two year,Fiber optic,1,1,0,Yes,Yes,No,0,0,0.020168958
+2330-PQGDQ,84.2,4299.75,51,One year,Fiber optic,0,1,1,Yes,No,Yes,0,0,0.09444717
+1396-QWFBJ,74.05,1565.7,21,Month-to-month,Fiber optic,0,1,1,Yes,No,No,1,1,0.4623884
+6380-ARCEH,20.2,20.2,1,Month-to-month,No,0,0,0,Yes,No,No,0,1,0.48126638
+4951-UKAAQ,88.95,355.2,4,Month-to-month,Fiber optic,0,0,0,Yes,No,No,1,1,0.88693863
+7868-TMWMZ,110.0,6668.35,60,Two year,Fiber optic,1,1,0,Yes,Yes,Yes,0,0,0.1617718
+3354-OADJP,54.25,447.75,8,One year,DSL,0,0,0,Yes,Yes,Yes,0,0,0.11993754
+8384-FZBJK,100.6,5611.7,57,Month-to-month,Fiber optic,0,1,1,Yes,No,No,0,1,0.7127688
+4403-BWPAY,24.8,321.7,14,One year,No,0,0,0,Yes,No,No,0,0,0.10651099
+2545-EBUPK,84.05,186.05,2,Month-to-month,Fiber optic,1,0,0,Yes,No,No,0,1,0.90202576
+2482-CZGBB,70.0,740.0,10,Month-to-month,Fiber optic,0,0,0,Yes,No,No,1,1,0.70158273
+1493-AMTIE,20.2,20.2,1,Month-to-month,No,0,0,0,Yes,No,No,1,1,0.62368655
+6370-ZVHDV,25.3,1554.9,61,Two year,No,0,1,0,Yes,No,No,0,0,0.015999505
+5671-RQRLP,75.65,5411.4,70,Two year,Fiber optic,1,1,0,Yes,No,No,0,0,0.118917234
+3995-WFCSM,60.85,111.4,2,Month-to-month,DSL,0,0,0,Yes,No,No,0,1,0.5028474
+1415-YFWLT,89.3,89.3,1,Month-to-month,Fiber optic,1,0,0,Yes,No,No,1,1,0.9386729
+8590-OHDIW,20.3,749.35,38,One year,No,0,1,1,Yes,No,No,0,0,0.012246124
+5931-FLJJF,70.1,467.55,7,Month-to-month,Fiber optic,1,1,0,Yes,No,No,1,1,0.6860669
+4250-WAROZ,93.25,5774.55,60,Month-to-month,Fiber optic,1,1,1,Yes,Yes,No,0,0,0.23317042
+8805-JNRAZ,49.2,103.7,2,Month-to-month,DSL,0,0,0,Yes,No,No,0,1,0.55570954
+2034-GDRCN,90.4,168.2,2,Month-to-month,Fiber optic,0,0,0,Yes,No,No,1,1,0.9158397
+9552-TGUZV,75.0,658.1,8,Month-to-month,Fiber optic,0,1,0,Yes,Yes,No,0,1,0.5077504
+2659-VXMWZ,111.3,7482.1,67,One year,Fiber optic,0,1,1,Yes,Yes,No,1,0,0.22130233
+2108-XWMPY,35.45,106.85,3,Month-to-month,DSL,0,0,0,No,Yes,No,1,1,0.6364987
+7956-XQWGU,19.4,460.25,27,Month-to-month,No,0,0,0,Yes,No,No,0,0,0.109762445
+4957-TREIR,64.4,195.65,3,Month-to-month,DSL,0,0,0,Yes,Yes,Yes,0,0,0.29065502
+8944-AILEF,19.45,340.85,15,Month-to-month,No,0,1,0,Yes,No,No,0,0,0.2988735
+1522-VVDMG,89.75,608.8,7,Month-to-month,Fiber optic,0,1,1,Yes,No,Yes,1,1,0.7075903
+2081-KJSQF,20.25,20.25,1,Month-to-month,No,0,0,0,Yes,No,No,0,1,0.62145734
+1862-QRWPE,20.65,1057.0,48,Two year,No,0,1,1,Yes,No,No,0,0,0.015899794
+2996-XAUVF,40.05,2799.75,70,Two year,DSL,0,0,0,No,No,Yes,0,0,0.013912482
+6685-XSHHU,20.95,1270.55,60,Two year,No,0,1,1,Yes,No,No,0,0,0.029341986
+1991-VOPLL,19.05,157.65,9,Month-to-month,No,0,0,0,Yes,No,No,0,0,0.20748457
+5561-NWEVX,79.2,172.85,2,Month-to-month,Fiber optic,1,1,0,Yes,No,No,1,1,0.8706497
+0032-PGELS,30.5,30.5,1,Month-to-month,DSL,0,1,1,No,Yes,No,1,1,0.59456104
+0328-GRPMV,70.1,70.1,1,Month-to-month,Fiber optic,0,0,0,Yes,No,No,1,1,0.86934525
+4001-TSBTV,91.55,5511.65,58,Month-to-month,Fiber optic,0,1,1,Yes,No,No,0,0,0.42954943
+5202-IVJNU,30.1,1131.3,39,Month-to-month,DSL,0,0,1,No,No,No,1,0,0.10451378
+8752-GHJFU,92.0,6585.2,71,One year,Fiber optic,1,1,0,Yes,Yes,Yes,0,0,0.0757334
+2749-CTKAJ,20.15,419.9,22,One year,No,0,1,1,Yes,No,No,0,0,0.015340862
+5160-UXJED,44.6,681.4,17,One year,DSL,0,0,1,Yes,No,No,0,0,0.10956971
+0458-HEUZG,35.4,450.4,13,Two year,DSL,0,0,0,No,No,Yes,0,0,0.02037563
+6457-GIRWB,69.35,69.35,1,Month-to-month,Fiber optic,0,0,0,Yes,No,No,1,1,0.9226685
+2348-KCJLT,61.5,2722.2,44,One year,DSL,0,1,0,Yes,Yes,No,0,0,0.0878962
+2514-GINMM,79.5,79.5,1,Month-to-month,Fiber optic,0,0,0,Yes,No,No,1,1,0.9231926
+0661-KBKPA,78.75,3942.45,53,One year,DSL,0,1,1,Yes,No,Yes,0,0,0.08303337
+9743-DQKQW,25.1,79.8,3,Month-to-month,DSL,0,0,0,No,No,No,0,1,0.63844085
+2203-GHNWN,79.65,1928.7,24,Month-to-month,Fiber optic,0,1,0,Yes,No,No,0,1,0.49444765
+5268-DSMNQ,97.95,5936.55,62,One year,Fiber optic,1,1,0,Yes,No,No,0,0,0.20425749
+1635-FJFCC,44.05,202.15,5,Month-to-month,DSL,0,0,0,Yes,No,No,0,1,0.47150895
+6599-SFQVE,55.0,340.4,6,Month-to-month,DSL,0,0,0,Yes,No,No,0,1,0.5729879
+0318-ZOPWS,20.15,973.35,49,Two year,No,0,1,0,Yes,No,No,0,0,0.020030357
+0303-WMMRN,19.25,86.05,5,Month-to-month,No,0,0,0,Yes,No,No,0,0,0.2854956
+2720-WGKHP,94.0,181.7,2,Month-to-month,Fiber optic,1,0,0,Yes,No,No,1,1,0.9440429
+8879-XUAHX,116.25,8564.75,71,Two year,Fiber optic,0,1,0,Yes,Yes,Yes,0,0,0.12333716
+8008-ESFLK,110.5,5835.5,53,One year,Fiber optic,0,1,0,Yes,Yes,Yes,0,0,0.43691894
+5906-CVLHP,54.15,2319.8,45,One year,DSL,0,1,1,Yes,No,Yes,1,0,0.052129082
+1998-VHJHK,19.15,501.35,27,One year,No,0,0,0,Yes,No,No,0,0,0.022487568
+4072-IPYLT,51.05,1815.0,36,Month-to-month,DSL,0,1,1,Yes,Yes,No,0,0,0.13427007
+1114-CENIM,55.0,3092.65,54,Month-to-month,DSL,0,0,1,Yes,No,No,1,0,0.16949406
+1400-WIVLL,107.95,5969.85,57,Two year,Fiber optic,0,1,0,Yes,No,Yes,0,0,0.39671347
+4317-VTEOA,50.75,50.75,1,Month-to-month,DSL,0,0,0,Yes,No,No,1,1,0.8120625
+5788-YPOEG,84.75,2839.45,34,Two year,DSL,0,1,1,Yes,Yes,Yes,0,0,0.019139271
+6128-DAFVY,44.85,2564.95,56,Month-to-month,DSL,0,0,0,No,No,No,0,0,0.40177676
+7625-XCQRH,76.5,837.95,11,Month-to-month,Fiber optic,0,0,0,Yes,No,No,1,1,0.7096231
+4732-RRJZC,20.25,144.35,7,Month-to-month,No,0,1,1,Yes,No,No,0,0,0.19440003
+4710-NKCAW,64.4,316.9,5,Month-to-month,DSL,0,1,1,Yes,Yes,Yes,0,0,0.22440855
+6778-EICRF,74.8,1821.2,24,One year,DSL,0,1,1,Yes,Yes,No,0,0,0.16592889
+5188-HGMLP,74.0,3919.15,54,Month-to-month,Fiber optic,1,1,0,Yes,No,No,0,1,0.445207
+5997-OPVFA,89.05,6254.45,72,Two year,DSL,0,1,0,Yes,Yes,Yes,0,0,0.0073690442
+1810-MVMAI,67.6,2000.2,30,Month-to-month,DSL,0,1,1,Yes,Yes,Yes,0,0,0.1904032
+3500-RMZLT,96.3,1426.75,15,Month-to-month,Fiber optic,1,0,0,Yes,Yes,Yes,1,1,0.7413817
+8387-UGUSU,20.05,284.3,15,Month-to-month,No,0,1,1,Yes,No,No,0,0,0.14418907
+2883-ILGWO,104.9,5913.95,57,Month-to-month,Fiber optic,1,0,0,Yes,No,Yes,0,1,0.5542093
+9548-ZMVTX,90.45,6565.85,72,Two year,Fiber optic,0,1,1,Yes,No,Yes,0,0,0.015158907
+3644-QXEHN,97.0,1334.45,13,Month-to-month,Fiber optic,0,1,1,Yes,No,No,0,1,0.7120995
+2525-GVKQU,20.6,1093.0,60,Two year,No,0,0,0,Yes,No,No,0,0,0.03968748
+1852-XEMDW,65.05,1427.55,22,Month-to-month,DSL,0,0,0,Yes,Yes,No,0,0,0.21287331
+2697-NQBPF,105.35,3540.65,34,Month-to-month,Fiber optic,0,0,0,Yes,No,Yes,0,1,0.64054227
+6437-UKHMV,79.7,586.05,7,Month-to-month,Fiber optic,0,0,0,Yes,No,No,1,1,0.7846861
+4712-UYOOI,20.0,417.65,20,Month-to-month,No,0,1,1,Yes,No,No,0,0,0.102352895
+0689-DSXGL,85.8,4433.3,52,Month-to-month,Fiber optic,0,1,1,Yes,No,Yes,0,0,0.12821072
+0447-RXSGD,99.65,2404.85,24,Month-to-month,Fiber optic,0,0,0,Yes,No,No,0,1,0.65833694
+2277-VWCNI,48.75,179.85,4,Month-to-month,DSL,1,0,0,Yes,No,No,0,1,0.7386239
+0533-UCAAU,71.1,4140.1,57,One year,DSL,1,1,0,Yes,No,No,0,0,0.112036355
+7113-HIPFI,65.85,4097.05,66,Two year,DSL,0,1,1,Yes,Yes,Yes,0,0,0.018789312
+6652-YFFJO,64.9,716.1,11,Month-to-month,DSL,0,0,0,Yes,No,No,0,1,0.46030372
+9297-FVVDH,84.5,4845.4,57,Two year,DSL,0,1,1,Yes,Yes,Yes,0,0,0.040207867
+2873-ZLIWT,84.85,3303.05,40,Month-to-month,Fiber optic,0,1,1,Yes,No,Yes,1,1,0.536988
+7733-UDMTP,55.0,3094.05,57,Month-to-month,DSL,1,0,0,No,No,No,0,1,0.46168378
+7851-WZEKY,95.15,196.9,2,Month-to-month,Fiber optic,0,0,0,Yes,No,No,1,1,0.9357772
+1492-KGETH,78.35,5445.95,70,One year,DSL,0,1,1,Yes,Yes,Yes,0,0,0.31699172
+9134-CEQMF,89.5,676.7,7,Month-to-month,Fiber optic,1,1,0,Yes,No,No,1,1,0.8058111
+8246-SHFGA,21.1,385.55,17,Month-to-month,No,0,0,0,Yes,No,No,0,0,0.2335728
+8059-UDZFY,105.35,3465.05,33,Month-to-month,Fiber optic,1,0,1,Yes,No,No,0,1,0.6828725
+0650-BWOZN,73.55,1359.45,18,Month-to-month,Fiber optic,1,0,0,Yes,No,No,0,1,0.6450406
+9786-YWNHU,63.55,4014.2,63,Two year,DSL,0,1,1,Yes,Yes,Yes,0,0,0.020422123
+5025-GOOKI,18.9,347.65,20,Month-to-month,No,0,0,0,Yes,No,No,0,0,0.11241849
+2987-BJXIK,84.7,5991.05,70,Two year,DSL,0,0,0,Yes,Yes,No,0,0,0.033991642
+2858-EIMXH,95.85,5016.25,53,One year,Fiber optic,1,1,0,Yes,No,No,0,1,0.5475713
+3778-FOAQW,20.15,456.85,24,One year,No,0,1,0,Yes,No,No,0,0,0.011975895
+2805-EDJPQ,99.75,5608.4,56,One year,Fiber optic,0,1,1,Yes,No,Yes,0,0,0.2719576
+2359-QWQUL,104.7,4134.85,39,One year,Fiber optic,0,1,0,Yes,Yes,Yes,1,0,0.30642563
+7668-XCFYV,92.55,1614.7,17,Month-to-month,Fiber optic,1,1,0,Yes,No,No,0,1,0.8066862
+7718-RXDGG,68.6,1108.6,15,Month-to-month,Fiber optic,0,1,0,Yes,No,No,0,1,0.5406101
+3167-SNQPL,101.15,3741.85,38,Month-to-month,Fiber optic,1,1,1,Yes,No,No,0,1,0.7145729
+4581-LNWUM,49.15,649.4,13,Month-to-month,DSL,0,0,0,No,No,No,0,1,0.562973
+9067-SQTNS,20.6,926.0,44,One year,No,0,1,1,Yes,No,No,0,0,0.015556078
+6961-VCPMC,80.4,3605.2,46,Month-to-month,Fiber optic,1,1,0,Yes,No,No,1,1,0.5501105
+1427-VERSM,98.7,5669.5,56,Month-to-month,Fiber optic,0,1,0,Yes,No,Yes,0,0,0.43151677
+3754-DXMRT,44.15,92.65,2,Month-to-month,DSL,1,0,0,Yes,No,No,1,1,0.7525708
+7968-QUXNS,18.95,110.15,6,Month-to-month,No,0,0,0,Yes,No,No,0,0,0.20271567
+9758-MFWGD,29.9,1388.75,48,One year,DSL,1,1,1,No,No,No,0,0,0.07236896
+1032-MAELW,78.45,5333.35,68,One year,DSL,0,1,1,Yes,Yes,Yes,0,0,0.26597166
+8819-IMISP,80.45,2429.1,31,Month-to-month,Fiber optic,0,0,0,Yes,No,No,0,1,0.72714764
+1583-IHQZE,112.95,1384.75,12,Month-to-month,Fiber optic,0,0,0,Yes,No,Yes,1,1,0.73553777
+4702-IOQDC,70.1,70.1,1,Month-to-month,Fiber optic,0,0,0,Yes,No,No,1,1,0.86934525
+3219-JQRSL,89.1,6352.4,72,Two year,DSL,1,1,0,Yes,Yes,Yes,0,0,0.00969726
+4785-NKHCX,20.05,94.15,5,Month-to-month,No,1,0,0,Yes,No,No,0,0,0.35371506
+5122-CYFXA,75.3,244.1,3,Month-to-month,DSL,0,0,0,Yes,No,Yes,0,1,0.59902525
+7233-DRTRF,102.4,6444.05,63,Month-to-month,Fiber optic,0,1,0,Yes,No,No,0,1,0.55672336
+9359-UGBTK,72.35,4991.5,67,One year,DSL,0,0,0,Yes,Yes,Yes,0,0,0.1271258
+0420-TXVSG,66.1,4428.45,66,Two year,DSL,0,1,0,Yes,Yes,No,0,0,0.03239727
+2958-NHPPS,20.85,473.9,23,Month-to-month,No,0,0,0,Yes,No,No,0,0,0.056039624
+1045-LTCYT,21.05,139.75,8,Month-to-month,No,0,1,1,Yes,No,No,0,0,0.22014607
+6848-HJTXY,19.45,1208.6,64,Two year,No,0,1,0,Yes,No,No,0,0,0.020322459
+6581-NQCBA,49.95,810.2,16,Month-to-month,DSL,0,1,0,No,No,Yes,1,1,0.5062501
+5935-FCCNB,94.2,1608.15,17,Month-to-month,Fiber optic,1,0,0,Yes,No,No,0,1,0.81603086
+8329-IBCTI,19.65,19.65,1,Month-to-month,No,0,0,0,Yes,No,No,1,1,0.49124023
+8809-XKHMD,100.55,7325.1,72,Two year,Fiber optic,0,1,0,Yes,Yes,Yes,0,0,0.021103628
+9094-AZPHK,100.15,1415.0,15,Month-to-month,Fiber optic,0,0,0,Yes,No,No,0,1,0.8351452
+2054-PJOCK,80.55,4847.05,60,One year,DSL,0,0,0,Yes,No,Yes,0,0,0.118970096
+9103-TCIHJ,55.7,899.8,15,Month-to-month,DSL,0,0,0,Yes,Yes,No,1,0,0.2880658
+6857-VWJDT,95.65,95.65,1,Month-to-month,Fiber optic,0,0,0,Yes,No,No,1,1,0.91389924
+7634-WSWDB,38.5,330.8,8,Month-to-month,DSL,0,0,1,No,Yes,No,0,1,0.5688929
+9199-PWQVC,79.7,4786.15,63,One year,DSL,0,1,0,Yes,Yes,No,0,0,0.12637423
+8705-WZCYL,44.8,44.8,1,Month-to-month,DSL,0,0,0,Yes,No,No,0,1,0.73499316
+0322-YINQP,48.55,48.55,1,Month-to-month,DSL,0,0,0,Yes,Yes,No,1,1,0.5395065
+7246-ZGQDF,54.5,54.5,1,Month-to-month,DSL,0,0,1,Yes,Yes,Yes,0,1,0.5357951
+7629-WFGLW,95.65,5471.75,56,One year,Fiber optic,1,1,0,Yes,Yes,Yes,0,0,0.16069755
+8221-EQDGL,61.0,2130.45,35,Month-to-month,DSL,0,1,0,Yes,Yes,No,0,0,0.14130682
+0428-IKYCP,87.0,1850.65,22,Month-to-month,Fiber optic,0,1,0,Yes,No,No,0,1,0.4757837
+5906-BFOZT,19.5,19.5,1,Month-to-month,No,0,0,0,Yes,No,No,0,1,0.6060841
+3316-UWXUY,93.5,4747.5,50,Month-to-month,Fiber optic,0,0,0,Yes,Yes,Yes,0,0,0.15544116
+3481-JHUZH,80.25,3439.0,41,Month-to-month,Fiber optic,0,1,0,Yes,No,No,0,1,0.66815144
+0327-WFZSY,100.0,3835.55,39,One year,Fiber optic,0,1,1,Yes,No,No,0,0,0.3718805
+9732-KPKBW,53.95,53.95,1,Month-to-month,DSL,0,0,0,Yes,Yes,Yes,1,1,0.69838583
+3272-VUHPV,56.3,401.5,8,Month-to-month,DSL,0,1,1,Yes,No,Yes,0,0,0.29447088
+3955-JBZZM,78.8,1641.3,20,Month-to-month,Fiber optic,0,0,0,Yes,No,No,0,1,0.5459188
+8749-JMNKX,93.8,4750.95,51,Month-to-month,Fiber optic,1,1,0,Yes,Yes,No,1,1,0.45973343
+2424-WVHPL,74.7,74.7,1,Month-to-month,Fiber optic,1,0,0,Yes,No,Yes,0,1,0.8667031
+8565-WUXZU,84.8,6141.65,72,Two year,Fiber optic,1,1,0,Yes,Yes,Yes,0,0,0.015146184
+2840-XANRC,93.15,2231.05,24,Month-to-month,Fiber optic,1,1,0,Yes,No,No,1,1,0.65542024
+3646-ITDGM,19.7,1051.9,56,Two year,No,0,0,0,Yes,No,No,0,0,0.09571971
+0320-DWVTU,99.5,5424.25,53,Two year,Fiber optic,0,0,0,Yes,Yes,Yes,0,0,0.11456472
+3209-ZPKFI,54.25,2538.2,47,Month-to-month,DSL,0,1,1,Yes,No,No,0,0,0.19115183
+8901-UPRHR,109.2,7711.45,72,Two year,Fiber optic,0,1,1,Yes,No,Yes,0,0,0.041530643
+1867-BDVFH,74.35,834.2,11,Month-to-month,Fiber optic,0,1,1,Yes,No,No,1,1,0.7293616
+8261-GWDBQ,116.05,6925.9,60,Two year,Fiber optic,1,1,0,Yes,Yes,Yes,0,0,0.21820763
+3254-YRILK,88.2,1775.8,19,Month-to-month,Fiber optic,1,0,0,Yes,No,No,1,1,0.7799954
+8267-KFGYD,21.05,21.05,1,Month-to-month,No,0,0,1,Yes,No,No,0,1,0.6114899
+5423-BHIXO,54.2,1739.6,32,Month-to-month,DSL,0,0,0,Yes,No,No,0,0,0.3415145
+2466-NEJOJ,19.65,169.75,8,Month-to-month,No,0,1,1,Yes,No,No,0,0,0.2424619
+0867-LDTTC,75.15,392.65,5,Month-to-month,DSL,0,0,0,Yes,No,Yes,0,0,0.3568994
+9531-NSBMR,19.25,679.8,36,One year,No,0,0,0,Yes,No,No,0,0,0.026535982
+0376-YMCJC,90.6,1943.2,23,Month-to-month,Fiber optic,0,0,0,Yes,No,Yes,1,1,0.59855115
+2058-DCJBE,69.75,324.6,5,Month-to-month,Fiber optic,0,0,0,Yes,No,No,1,1,0.73132324
+8577-QSOCG,20.2,746.05,38,Two year,No,0,1,1,Yes,No,No,0,0,0.006239689
+9787-XVQIU,75.3,75.3,1,Month-to-month,Fiber optic,0,0,0,Yes,No,No,1,1,0.9171076
+9003-CPATH,79.9,3313.4,42,Month-to-month,Fiber optic,0,0,0,Yes,No,No,0,1,0.6002389
+7136-RVDTZ,45.25,3264.45,70,One year,DSL,1,0,0,No,No,No,1,0,0.10066042
+0366-NQSHS,19.35,46.35,2,Month-to-month,No,0,0,0,Yes,No,No,0,0,0.29888827
+8375-DKEBR,69.6,69.6,1,Month-to-month,Fiber optic,1,0,0,Yes,No,No,1,1,0.9281664
+6022-KOUQO,29.05,44.75,2,Month-to-month,DSL,0,1,1,No,No,Yes,0,1,0.63701236
+0637-KVDLV,76.5,162.45,2,Month-to-month,Fiber optic,0,0,0,Yes,No,No,1,1,0.87442017
+5312-UXESG,98.05,3990.6,41,Month-to-month,Fiber optic,0,0,0,Yes,No,No,0,1,0.5370918
+8695-WDYEA,51.25,51.25,1,Month-to-month,DSL,0,0,0,Yes,Yes,No,0,1,0.5591707
+6122-LJADA,90.15,6237.05,70,Two year,DSL,0,1,1,Yes,Yes,Yes,0,0,0.031777967
+7869-ZYDST,59.05,1882.8,31,Month-to-month,DSL,0,1,0,Yes,No,No,0,0,0.2252103
+8630-FJLIB,69.8,1221.65,18,Month-to-month,Fiber optic,0,0,0,Yes,No,No,0,1,0.612512
+6656-JWRQX,30.55,30.55,1,Month-to-month,DSL,0,0,0,No,No,Yes,0,1,0.6962438
+7473-ZBDSN,18.8,255.55,14,Two year,No,0,1,1,Yes,No,No,0,0,0.014894878
+2234-EOFPT,79.35,5753.25,72,Two year,DSL,0,1,0,Yes,Yes,Yes,0,0,0.011568847
+9661-JALZV,24.7,1519.0,58,Two year,No,0,0,0,Yes,No,No,0,0,0.027079137
+0866-QLSIR,64.4,2088.75,34,One year,DSL,0,0,0,Yes,Yes,Yes,1,0,0.057289593
+2303-PJYHN,19.85,52.0,2,Month-to-month,No,0,1,0,Yes,No,No,0,0,0.30759144
+9314-IJWSQ,84.8,1203.9,14,Month-to-month,Fiber optic,0,1,1,Yes,No,No,0,1,0.78782797
+0123-CRBRT,88.1,5526.75,61,Two year,DSL,0,1,1,Yes,Yes,Yes,0,0,0.01385184
+6518-LGAOV,105.0,4026.4,38,Month-to-month,Fiber optic,0,1,0,Yes,No,Yes,1,1,0.68945754
+5708-EVONK,93.4,5435.6,58,Month-to-month,Fiber optic,0,1,1,Yes,Yes,No,1,0,0.16878247
+3234-VKACU,70.3,132.4,2,Month-to-month,DSL,0,0,0,Yes,No,Yes,0,1,0.5750426
+2812-SFXMJ,20.05,20.05,1,Month-to-month,No,0,0,1,Yes,No,No,0,1,0.47580317
+7666-WKRON,80.45,3201.55,39,Two year,Fiber optic,0,0,0,Yes,No,Yes,1,0,0.061722536
+3442-ZHHCC,76.9,5023.0,68,One year,DSL,0,0,0,Yes,Yes,No,0,0,0.41443396
+5480-XTFFL,21.0,697.7,31,Two year,No,0,1,1,Yes,No,No,0,0,0.009547844
+1303-SRDOK,69.05,3842.6,55,Two year,Fiber optic,0,1,1,Yes,No,No,0,0,0.03525321
+4373-MAVJG,90.9,1259.0,14,Month-to-month,Fiber optic,0,1,1,Yes,No,No,1,1,0.6722693
+0727-BMPLR,100.0,5509.3,55,One year,Fiber optic,1,0,0,Yes,No,No,1,1,0.45352516
+5129-JLPIS,105.5,2686.05,25,Month-to-month,Fiber optic,0,0,0,Yes,Yes,Yes,0,1,0.5685448
+0238-WHBIQ,89.7,6339.3,72,Two year,DSL,0,1,1,Yes,Yes,Yes,0,0,0.0075457734
+9957-YODKZ,80.8,457.1,6,Month-to-month,Fiber optic,1,1,0,Yes,No,No,0,1,0.83128554
+7460-ITWWP,86.1,3861.45,45,Month-to-month,Fiber optic,1,1,0,Yes,No,No,0,1,0.5625335
+7018-FPXHH,59.8,3457.45,56,Two year,DSL,0,1,1,Yes,Yes,No,0,0,0.039716557
+8066-POXGX,35.1,446.1,13,Month-to-month,DSL,0,0,0,No,No,No,1,1,0.63062996
+7892-POOKP,104.8,3046.05,28,Month-to-month,Fiber optic,0,1,0,Yes,No,Yes,1,1,0.7138041
+8887-IPQNC,44.25,313.45,7,Month-to-month,DSL,0,1,0,Yes,No,No,0,0,0.39474273
+9129-UXERG,103.6,1806.35,18,Month-to-month,Fiber optic,1,0,0,Yes,No,Yes,0,1,0.6705968
+2379-GYFLQ,94.9,4422.95,46,One year,Fiber optic,0,0,0,Yes,No,No,0,0,0.17963812
+3027-YNWZU,25.0,1584.8,64,Two year,No,0,1,0,Yes,No,No,0,0,0.013537611
+5175-AOBHI,46.0,193.6,4,Month-to-month,DSL,0,0,0,Yes,No,No,1,1,0.67032075
+4872-JCVCA,47.6,3377.8,71,Two year,DSL,0,1,0,No,Yes,Yes,0,0,0.013679419
+9184-GALIL,20.45,781.25,38,Month-to-month,No,0,1,1,Yes,No,No,0,0,0.038812544
+7009-PCARS,19.1,1001.5,55,One year,No,0,0,1,Yes,No,No,0,0,0.037175443
+6230-BSUXY,85.0,85.0,1,Month-to-month,Fiber optic,1,0,0,Yes,No,No,1,1,0.94271713
+9093-FPDLG,94.2,999.9,11,Month-to-month,Fiber optic,0,0,0,Yes,No,Yes,0,1,0.7806338
+1343-EHPYB,103.4,6603.0,63,Month-to-month,Fiber optic,0,1,0,Yes,No,No,1,1,0.53443867
+8166-ZZTFS,80.55,5265.1,66,Two year,DSL,1,1,0,Yes,No,No,1,0,0.09568954
+9809-IMGCQ,96.7,2082.95,22,Month-to-month,Fiber optic,1,0,0,Yes,No,No,1,1,0.83208257
+8739-XNIKG,84.0,424.75,5,Month-to-month,Fiber optic,0,0,0,Yes,No,No,0,1,0.86501247
+5651-WYIPH,49.85,865.75,18,Month-to-month,DSL,1,0,0,Yes,No,No,0,0,0.4065887
+5148-HKFIR,19.7,406.95,20,Two year,No,0,0,0,Yes,No,No,0,0,0.009895985
+7240-FQLHE,99.75,1836.25,18,Month-to-month,Fiber optic,1,1,0,Yes,No,Yes,1,1,0.7040859
+6990-YNRIO,108.65,6937.95,65,Two year,Fiber optic,0,1,1,Yes,Yes,Yes,1,0,0.16125093
+2885-HIJDH,86.9,6194.1,69,Two year,DSL,0,1,1,Yes,Yes,Yes,0,0,0.02460434
+8777-PVYGU,64.3,3410.6,52,One year,DSL,0,1,0,Yes,Yes,No,0,0,0.07247871
+8086-OVPWV,80.2,181.1,2,Month-to-month,Fiber optic,0,0,0,Yes,No,No,1,1,0.8525536
+8552-OBVRU,104.5,5068.05,48,Month-to-month,Fiber optic,1,1,1,Yes,Yes,Yes,0,0,0.3628409
+4471-KXAUH,84.3,3588.4,42,Month-to-month,Fiber optic,0,1,0,Yes,No,Yes,1,1,0.59694
+5995-SNNEW,104.45,2184.85,23,Month-to-month,Fiber optic,1,1,0,Yes,No,No,0,1,0.8359014
+4822-LPTYJ,103.75,7346.2,72,Two year,Fiber optic,0,1,0,Yes,No,No,0,0,0.434606
+9178-JHUVJ,24.1,587.4,24,Two year,No,0,1,1,Yes,No,No,0,0,0.012192795
+0909-SDHNU,29.8,201.95,7,Month-to-month,DSL,0,0,1,No,Yes,No,0,0,0.28085178
+9644-KVCNC,92.15,6056.9,66,One year,Fiber optic,0,0,0,Yes,No,No,0,0,0.07626113
+8199-ZLLSA,118.35,7804.15,67,One year,Fiber optic,0,0,0,Yes,Yes,Yes,1,0,0.2728217
+3384-CTMSF,104.1,5135.15,47,Month-to-month,Fiber optic,0,1,0,Yes,No,No,0,1,0.7707751
+4128-ETESU,99.7,4747.2,47,Month-to-month,Fiber optic,1,1,0,Yes,No,No,0,1,0.7607419
+2181-UAESM,53.45,119.5,2,Month-to-month,DSL,0,0,0,Yes,Yes,No,0,1,0.4496432
+5197-YPYBZ,25.25,274.7,12,Two year,No,0,1,1,Yes,No,No,0,0,0.018765267
+4029-HPFVY,70.3,220.4,3,Month-to-month,Fiber optic,0,0,0,Yes,No,No,0,1,0.67195404
+8755-IWJHN,95.35,6382.0,69,Month-to-month,Fiber optic,1,1,0,Yes,No,No,0,0,0.37950796
+5960-WPXQM,79.05,79.05,1,Month-to-month,Fiber optic,0,0,0,Yes,No,No,1,1,0.9231926
+4544-RXFMG,43.45,345.5,8,One year,DSL,0,1,1,Yes,No,No,0,0,0.16512747
+5052-PNLOS,105.35,323.25,3,Month-to-month,Fiber optic,0,0,0,Yes,No,No,1,1,0.8519917
+2091-MJTFX,51.2,1561.5,30,Month-to-month,DSL,0,1,1,No,No,Yes,1,0,0.1856915
+5832-TRLPB,75.35,2243.9,29,One year,DSL,0,0,0,Yes,No,Yes,0,0,0.17464688
+7205-BAIAD,20.6,827.3,40,Two year,No,0,0,0,Yes,No,No,0,0,0.007877071
+4723-BEGSG,86.65,6094.25,72,Two year,DSL,0,1,0,Yes,Yes,Yes,0,0,0.007988841
+7130-YXBRO,111.45,5315.1,48,Month-to-month,Fiber optic,0,1,0,Yes,Yes,No,0,1,0.51358235
+6686-YPGHK,85.5,4042.3,47,Month-to-month,Fiber optic,1,0,0,Yes,Yes,No,1,0,0.37520084
+1855-CFULU,20.05,91.45,4,Month-to-month,No,1,0,0,Yes,No,No,0,0,0.40107128
+3892-NXAZG,114.05,8289.2,72,Two year,Fiber optic,0,1,1,Yes,Yes,Yes,0,0,0.0176822
+7853-WNZSY,19.75,19.75,1,Month-to-month,No,0,0,0,Yes,No,No,0,1,0.57147956
+0463-TXOAK,25.6,1334.5,52,Two year,No,0,0,1,Yes,No,No,0,0,0.030612154
+7802-EFKNY,24.95,100.4,5,Month-to-month,DSL,0,1,0,No,No,No,1,1,0.65731096
+6072-NUQCB,20.25,488.25,22,One year,No,0,1,1,Yes,No,No,0,0,0.017191486
+1402-PTHGN,61.5,1087.45,18,One year,DSL,0,1,1,Yes,Yes,Yes,0,0,0.101654924
+1333-PBMXB,24.75,1342.15,54,One year,No,0,1,1,Yes,No,No,0,0,0.0154642705
+7407-SUJIZ,20.6,541.5,25,Month-to-month,No,0,0,0,Yes,No,No,0,0,0.034456827
+0582-AVCLN,20.3,743.05,38,Two year,No,0,0,0,Yes,No,No,0,0,0.007097426
+8835-VSDSE,70.7,141.45,2,Month-to-month,Fiber optic,0,1,0,Yes,No,No,1,1,0.7364338
+9667-TKTVZ,54.35,117.05,2,Month-to-month,DSL,0,0,0,Yes,No,Yes,0,1,0.66840327
+9210-IAHGH,70.75,450.8,7,Month-to-month,DSL,0,0,0,Yes,No,Yes,1,1,0.4967917
+5543-QDCRY,56.4,234.85,4,Month-to-month,DSL,0,0,0,Yes,No,No,0,1,0.45863187
+4592-IWTJI,29.7,91.7,3,Month-to-month,DSL,0,1,1,No,Yes,No,1,0,0.40355507
+1657-DYMBM,19.9,1110.05,53,Two year,No,0,1,0,Yes,No,No,0,0,0.037264228
+4359-INNWN,20.05,337.9,17,One year,No,0,0,0,Yes,No,No,0,0,0.04555925
+0562-KBDVM,44.6,3058.15,70,Two year,DSL,0,0,0,No,Yes,Yes,0,0,0.017996559
+0148-DCDOS,94.7,2362.1,25,Month-to-month,Fiber optic,0,0,0,Yes,No,No,1,1,0.6119302
+2676-ISHSF,20.3,20.3,1,Month-to-month,No,0,0,0,Yes,No,No,0,1,0.48126638
+8885-QSQBX,49.55,49.55,1,Month-to-month,DSL,0,0,0,Yes,Yes,No,0,1,0.54153407
+0516-QREYC,20.3,459.95,24,Month-to-month,No,1,0,0,Yes,No,No,0,0,0.06854982
+1389-CXMLU,91.05,289.1,3,Month-to-month,Fiber optic,1,0,0,Yes,No,No,1,1,0.86197245
+4779-ZGICK,23.55,1173.35,48,Two year,No,0,1,1,Yes,No,No,0,0,0.013195829
+8404-VIOMB,62.5,4136.4,66,Two year,DSL,0,0,0,No,Yes,Yes,0,0,0.017487397
+5828-AVIPD,100.95,1875.55,19,One year,Fiber optic,0,1,1,Yes,No,Yes,1,1,0.5848958
+8280-MQRQN,50.45,50.45,1,Month-to-month,DSL,0,0,0,Yes,No,No,1,1,0.8211945
+6976-BWGLQ,25.2,1787.35,72,Two year,No,0,1,1,Yes,No,No,0,0,0.0063110325
+3675-YDUPJ,19.85,193.05,10,Month-to-month,No,0,0,0,Yes,No,No,0,0,0.21273737
+2160-GPFXD,65.65,3566.7,54,Two year,DSL,0,1,1,Yes,Yes,Yes,0,0,0.025725083
+4443-EMBNA,24.75,1836.9,71,Two year,No,0,1,0,Yes,No,No,0,0,0.007792074
+0064-YIJGF,75.75,1929.0,27,Month-to-month,Fiber optic,0,1,1,Yes,No,No,0,1,0.5149215
+7416-CKTEP,19.6,1134.25,57,Two year,No,0,1,0,Yes,No,No,0,0,0.05011317
+3468-DRVQJ,70.3,676.15,10,One year,DSL,0,1,1,Yes,Yes,No,0,0,0.21678136
+9050-IKDZA,81.5,162.55,2,Month-to-month,Fiber optic,1,0,0,Yes,No,No,0,1,0.8967669
+3229-USWAR,79.95,2727.3,34,One year,DSL,0,0,0,Yes,Yes,Yes,0,0,0.2231178
+4976-LNFVV,34.3,577.15,19,Month-to-month,DSL,1,1,0,No,No,No,0,1,0.5484399
+3884-HCSWG,70.0,1144.5,17,Month-to-month,Fiber optic,0,0,0,Yes,No,No,1,1,0.67507154
+4999-IEZLT,29.45,1983.15,66,One year,DSL,0,0,0,No,No,Yes,0,0,0.05132773
+3814-MLAXC,79.85,2404.15,31,Month-to-month,Fiber optic,0,0,0,Yes,No,Yes,1,1,0.44668707
+0019-GFNTW,45.05,2560.1,56,Two year,DSL,0,0,0,No,Yes,Yes,0,0,0.032946005
+3190-XFANI,100.6,5069.65,49,One year,Fiber optic,0,0,1,Yes,No,Yes,1,0,0.31162828
+6584-VQMYT,56.2,1567.55,27,One year,DSL,0,0,1,Yes,Yes,No,0,0,0.048793457
+2192-OZITF,73.55,3349.1,45,Two year,DSL,0,0,0,Yes,Yes,Yes,0,0,0.018199952
+6158-HDPXZ,25.35,25.35,1,Month-to-month,DSL,0,0,0,No,No,No,0,1,0.6257531
+0030-FNXPP,19.85,57.2,3,Month-to-month,No,0,0,0,Yes,No,No,0,0,0.31840345
+3727-OWVYD,61.2,2021.2,35,One year,DSL,0,0,0,Yes,Yes,No,0,0,0.061258618
+6689-TCZHQ,78.95,378.4,5,Month-to-month,Fiber optic,1,0,0,Yes,No,No,1,1,0.73512936
+5243-SAOTC,79.85,4308.25,54,Month-to-month,Fiber optic,0,0,0,Yes,No,No,0,0,0.31819654
+0956-SYCWG,19.65,244.8,13,One year,No,0,0,0,Yes,No,No,0,0,0.07392486
+5150-ITWWB,94.85,335.75,3,Month-to-month,Fiber optic,1,0,0,Yes,No,No,0,1,0.9315174
+1262-OPMFY,75.75,655.9,9,Month-to-month,Fiber optic,0,1,0,Yes,No,No,1,1,0.5765475
+5092-STPKP,56.35,1381.2,24,Month-to-month,DSL,0,0,0,Yes,Yes,Yes,0,0,0.21101844
+0701-TJSEF,68.25,576.95,9,Month-to-month,DSL,0,0,0,Yes,Yes,Yes,0,0,0.24088848
+3957-HHLMR,65.2,4543.15,70,One year,DSL,0,1,1,Yes,Yes,No,0,0,0.10883058
+8309-PPCED,110.45,7982.5,72,Two year,Fiber optic,0,1,0,Yes,No,Yes,0,0,0.0235891
+7446-KQISO,109.75,4900.65,45,Two year,Fiber optic,0,1,1,Yes,No,Yes,0,0,0.3188547
+7325-ENZFI,40.3,1630.4,39,One year,DSL,0,0,0,No,Yes,Yes,0,0,0.053921677
+1810-BOHSY,96.4,4911.05,51,One year,Fiber optic,0,1,0,Yes,Yes,No,0,0,0.29567444
+1000-AJSLD,20.1,20.1,1,Month-to-month,No,0,0,0,Yes,No,No,1,1,0.62145734
+7016-BPGEU,25.1,712.85,29,Month-to-month,DSL,0,0,0,No,No,No,1,0,0.13805938
+9092-GDZKO,24.85,493.4,22,Month-to-month,No,0,0,0,Yes,No,No,0,0,0.14968193
+2860-RANUS,85.8,1727.5,20,Month-to-month,Fiber optic,1,0,0,Yes,No,No,1,1,0.69316053
+5133-VRSAB,29.35,216.45,8,Month-to-month,DSL,0,0,0,No,Yes,No,0,0,0.3176048
+7861-UVUFT,84.3,1308.4,15,Month-to-month,Fiber optic,0,1,0,Yes,No,No,1,1,0.7481843
+7794-JASDG,50.75,50.75,1,Month-to-month,DSL,0,0,0,Yes,Yes,No,0,1,0.6215742
+4194-FJARJ,60.0,3273.95,54,Two year,DSL,0,1,1,Yes,Yes,Yes,0,0,0.04374762
+2892-GESUL,19.35,309.25,18,Two year,No,0,1,1,Yes,No,No,0,0,0.013930811
+2195-VVRJF,59.1,1011.05,18,Month-to-month,DSL,1,1,0,Yes,Yes,No,0,0,0.3672018
+9286-BHDQG,45.25,3139.8,72,Two year,DSL,0,1,1,No,Yes,Yes,0,0,0.009011124
+7951-QKZPL,24.5,740.3,33,Two year,No,0,1,1,Yes,No,No,1,0,0.00964434
+5605-IYGFG,69.85,515.45,7,Month-to-month,Fiber optic,0,0,0,Yes,No,No,0,1,0.6304827
+7191-ADRGF,54.3,2390.45,44,Two year,DSL,0,1,0,No,No,No,0,0,0.0700193
+7571-YXDAD,74.9,147.15,2,Month-to-month,Fiber optic,0,0,0,Yes,No,No,1,1,0.7685153
+7824-PANSQ,80.65,4807.35,58,Month-to-month,Fiber optic,0,0,0,Yes,No,Yes,0,0,0.13034154
+7218-HKQFK,94.2,167.5,2,Month-to-month,Fiber optic,0,1,0,Yes,No,Yes,1,1,0.8892771
+3824-RHKVR,19.7,340.35,17,Month-to-month,No,0,0,0,Yes,No,No,0,0,0.18913817
+4480-MBMLB,104.8,3886.45,36,One year,Fiber optic,0,0,0,Yes,No,No,0,0,0.4392771
+6726-NNFWD,89.45,6435.25,71,Two year,Fiber optic,1,1,0,Yes,No,No,0,0,0.034721773
+9943-VSZUV,75.7,5060.85,67,Month-to-month,Fiber optic,1,0,0,Yes,No,No,0,0,0.3710948
+1100-DDVRV,49.8,836.35,17,Month-to-month,DSL,0,1,0,No,No,No,0,1,0.45730704
+8561-NMTBD,112.35,7388.45,67,One year,Fiber optic,0,1,1,Yes,No,Yes,0,0,0.1743102
+3197-NNYNB,105.1,6631.85,65,Two year,Fiber optic,0,0,0,Yes,No,No,0,0,0.08855921
+6416-TVAIH,68.5,68.5,1,Month-to-month,Fiber optic,0,1,1,Yes,No,No,1,1,0.91498727
+5445-UTODQ,81.1,576.65,7,Month-to-month,Fiber optic,0,1,0,Yes,No,No,1,1,0.7814233
+0967-BMLBD,20.0,196.35,11,One year,No,0,1,1,Yes,No,No,0,0,0.0988239
+0106-UGRDO,116.0,8182.85,69,Two year,Fiber optic,0,1,0,Yes,Yes,Yes,0,0,0.084958114
+8966-SNIZF,19.45,1303.5,70,Two year,No,0,1,0,Yes,No,No,0,0,0.016302034
+4139-DETXS,64.45,4528.0,72,Two year,DSL,0,1,1,No,Yes,Yes,0,0,0.008227312
+0122-OAHPZ,73.85,511.25,7,Month-to-month,Fiber optic,0,0,0,Yes,No,No,1,1,0.7437842
+4919-MOAVT,69.65,220.1,3,Month-to-month,Fiber optic,0,0,1,Yes,No,No,1,1,0.6410804
+9339-FIIJL,85.95,6151.9,72,Two year,DSL,0,1,0,Yes,No,Yes,0,0,0.0118113505
+7562-GSUHK,93.2,1573.7,16,Month-to-month,Fiber optic,0,0,0,Yes,No,No,1,1,0.5736652
+2300-RQGOI,20.05,741.5,38,Two year,No,0,0,0,Yes,No,No,0,0,0.007097426
+1031-IIDEO,70.85,70.85,1,Month-to-month,Fiber optic,0,0,0,Yes,No,No,1,1,0.8753216
+6959-UWKHF,42.9,42.9,1,Month-to-month,DSL,0,0,0,Yes,No,No,1,1,0.7034083
+1623-NLDOT,33.55,1445.3,42,One year,DSL,0,1,0,No,No,Yes,1,0,0.06796025
+3966-HRMZA,75.05,202.9,3,Month-to-month,Fiber optic,1,0,0,Yes,No,No,0,1,0.7687719
+6733-LRIZX,108.95,4025.5,35,Two year,Fiber optic,0,0,0,Yes,Yes,Yes,0,0,0.15479241
+0266-GMEAO,114.3,8058.55,72,Two year,Fiber optic,0,1,1,Yes,Yes,Yes,0,0,0.016946206
+3913-RDSJZ,25.55,1714.95,64,Two year,No,0,1,0,Yes,No,No,0,0,0.014784595
+7359-PTSXY,45.75,45.75,1,Month-to-month,DSL,0,0,0,Yes,No,No,1,1,0.6836403
+1202-KKGFU,54.2,690.5,12,Month-to-month,DSL,0,1,0,Yes,Yes,Yes,0,0,0.38443616
+8337-UPOAQ,89.8,914.3,10,Month-to-month,Fiber optic,1,1,0,Yes,No,No,1,1,0.8517794
+5577-OTWWW,19.75,297.3,15,Month-to-month,No,0,0,0,Yes,No,No,1,0,0.23290163
+5046-NUHWD,45.0,1228.65,29,Month-to-month,DSL,1,1,0,No,Yes,No,0,1,0.55248255
+2796-UUZZO,80.3,4896.35,63,Month-to-month,Fiber optic,0,1,1,Yes,No,No,0,0,0.1965598
+8123-QBNAZ,104.5,3684.95,36,Month-to-month,Fiber optic,0,1,1,Yes,Yes,No,0,1,0.5001142
+7271-AJDTL,94.45,5073.1,55,Month-to-month,Fiber optic,0,1,0,Yes,No,No,0,1,0.51595265
+1452-UZOSF,106.1,7548.6,72,Two year,Fiber optic,0,1,1,Yes,Yes,Yes,0,0,0.030609831
+2041-JIJCI,64.0,370.25,5,Month-to-month,DSL,0,0,0,Yes,No,No,0,1,0.5025295
+5839-SUYVZ,74.55,1170.5,16,Month-to-month,Fiber optic,0,0,0,Yes,No,Yes,0,0,0.43627334
+3714-NTNFO,84.5,3906.7,49,Month-to-month,Fiber optic,0,0,0,Yes,No,No,0,1,0.66239005
+7975-JMZNT,91.7,6075.9,66,Two year,DSL,0,1,0,Yes,Yes,Yes,0,0,0.022391848
+3569-JFODW,90.95,6652.45,72,Two year,DSL,0,1,1,Yes,Yes,Yes,0,0,0.007385872
+8722-NGNBH,40.0,223.45,5,Month-to-month,DSL,0,0,0,No,Yes,Yes,1,0,0.27873263
+6365-HITVU,87.25,6328.7,71,Two year,DSL,0,1,1,Yes,Yes,Yes,0,0,0.012718738
+1958-RNRKS,49.9,1441.95,30,Month-to-month,DSL,0,1,0,Yes,No,No,0,0,0.31440037
+7989-VCQOH,83.25,1611.15,18,Month-to-month,DSL,0,1,1,Yes,Yes,Yes,0,0,0.3183624
+6350-XFYGW,94.75,422.4,4,Month-to-month,Fiber optic,1,0,0,Yes,No,No,0,1,0.9042298
+5055-BRMNE,106.7,7009.5,67,Two year,Fiber optic,0,1,1,Yes,Yes,Yes,0,0,0.24984533
+3865-ZYKAD,84.9,5785.65,69,Month-to-month,Fiber optic,1,1,0,Yes,Yes,No,0,0,0.40402353
+4884-LEVMQ,20.45,790.0,39,Two year,No,0,1,0,Yes,No,No,0,0,0.0074937665
+2806-MLNTI,105.1,5376.4,52,One year,Fiber optic,1,1,0,Yes,No,No,0,1,0.5769884
+2519-FAKOD,99.25,3777.15,38,Month-to-month,Fiber optic,0,0,1,Yes,No,No,1,1,0.6201163
+2798-NYLMZ,108.55,7616.0,71,Two year,Fiber optic,0,1,0,Yes,Yes,Yes,0,1,0.5489231
+0334-GDDSO,81.35,233.7,3,Month-to-month,Fiber optic,1,0,0,Yes,No,No,1,1,0.8579742
+1335-NTIUC,24.95,190.25,9,Month-to-month,DSL,0,0,0,No,No,No,0,1,0.6993503
+9847-HNVGP,19.95,310.6,17,One year,No,0,0,0,Yes,No,No,0,0,0.037410475
+5886-VLQVU,89.85,3161.2,35,Month-to-month,Fiber optic,0,1,0,Yes,No,Yes,0,1,0.4405329
+4827-DPADN,83.3,6042.7,72,Two year,DSL,0,1,1,Yes,Yes,Yes,0,0,0.009263934
+6048-NJXHX,19.75,899.45,41,Two year,No,0,1,0,Yes,No,No,0,0,0.011403273
+4006-HKYHO,86.7,5309.5,63,Two year,DSL,0,0,0,Yes,Yes,Yes,0,0,0.021802736
+5307-DZCVC,85.95,2628.6,32,Month-to-month,Fiber optic,1,1,0,Yes,No,No,1,1,0.6284953
+0023-XUOPT,94.1,1215.6,13,Month-to-month,Fiber optic,0,1,0,Yes,No,No,1,1,0.6775174
+2560-QTSBS,23.3,1623.15,72,One year,No,0,1,1,Yes,No,No,0,0,0.009644327
+5343-SGUBI,80.2,4297.6,52,One year,Fiber optic,0,0,0,Yes,No,No,0,0,0.09075923
+2603-HVKCG,101.4,3143.65,31,Month-to-month,Fiber optic,0,0,0,Yes,No,No,0,1,0.6954275
+8224-KDLKN,25.0,1738.9,72,Two year,No,0,1,1,Yes,No,No,0,0,0.006037662
+8949-JTMAY,98.6,2933.2,29,Month-to-month,Fiber optic,0,0,0,Yes,No,No,1,1,0.6401368
+7013-PSXHK,80.75,3208.65,40,One year,DSL,0,0,0,Yes,No,Yes,0,0,0.19715808
+6797-UCJHZ,104.6,6819.45,66,One year,Fiber optic,1,1,0,Yes,No,No,0,0,0.3506734
+9223-UCPVT,94.4,94.4,1,Month-to-month,Fiber optic,0,0,0,Yes,No,No,1,1,0.9298035
+7841-TZDMQ,46.0,84.5,2,Month-to-month,DSL,0,0,0,Yes,No,No,1,1,0.714488
+0906-QVPMS,115.15,8349.45,72,Two year,Fiber optic,0,1,0,Yes,Yes,Yes,0,0,0.019477032
+0201-MIBOL,102.4,6471.85,66,Two year,Fiber optic,1,0,0,Yes,Yes,No,0,0,0.09090109
+2511-MORQY,54.9,2614.1,50,One year,DSL,0,1,1,Yes,No,No,0,0,0.09914348
+9420-LOJKX,99.1,1426.4,15,Month-to-month,Fiber optic,0,0,0,Yes,Yes,No,1,1,0.75009346
+7627-JKIAZ,78.95,2839.65,37,Month-to-month,Fiber optic,0,1,0,Yes,No,No,1,1,0.5326921
+3143-JQEGI,88.35,1222.8,13,Month-to-month,Fiber optic,0,1,1,Yes,No,No,1,1,0.7179061
+2480-EJWYP,97.8,5458.8,58,One year,Fiber optic,1,1,0,Yes,No,No,0,1,0.5704679
+5908-QMGOE,74.2,1133.9,15,Month-to-month,Fiber optic,1,0,0,Yes,No,No,1,1,0.64514476
+4685-TFLLS,19.8,342.3,18,One year,No,0,1,1,Yes,No,No,0,0,0.06502244
+8639-NHQEI,95.9,6954.15,72,Two year,Fiber optic,0,1,1,Yes,Yes,No,0,0,0.019376723
+4673-KKSLS,87.6,2724.25,31,Month-to-month,Fiber optic,0,0,0,Yes,Yes,Yes,0,0,0.40414545
+2675-IJRGJ,19.65,978.0,53,Two year,No,0,0,0,Yes,No,No,0,0,0.10477684
+8731-WBBMB,81.9,2078.55,26,Month-to-month,DSL,0,1,0,Yes,No,Yes,0,0,0.22205591
+9152-AMKAK,80.25,493.4,6,Two year,DSL,0,0,0,Yes,Yes,Yes,0,0,0.050710425
+6710-HSJRD,114.1,7132.15,61,Month-to-month,Fiber optic,0,1,0,Yes,No,Yes,0,0,0.3614499
+4910-AQFFX,79.35,661.25,9,Month-to-month,Fiber optic,0,1,1,Yes,No,No,1,1,0.7047457
+7502-BNYGS,69.1,3168.0,46,Month-to-month,DSL,0,1,0,Yes,No,No,0,0,0.2567921
+1221-GHZEP,65.1,3846.75,62,Two year,DSL,0,0,0,Yes,Yes,Yes,0,0,0.023403287
+5473-KHBPS,95.7,4976.15,52,One year,Fiber optic,0,1,1,Yes,No,No,0,0,0.24183288
+4550-EVXNY,69.65,69.65,1,Month-to-month,Fiber optic,0,0,1,Yes,No,No,1,1,0.91806334
+4801-JZAZL,29.6,346.45,11,Month-to-month,DSL,0,1,1,No,Yes,No,0,1,0.47316927
+3963-RYFNS,116.45,8013.55,72,Two year,Fiber optic,0,0,0,Yes,Yes,Yes,0,0,0.015251901
+0674-DGMAQ,93.5,2970.8,32,Month-to-month,Fiber optic,1,1,0,Yes,No,No,0,1,0.7303681
+7596-ZYWBB,59.6,3739.8,65,Two year,DSL,0,0,0,Yes,Yes,Yes,0,0,0.01853974
+1834-ABKHQ,50.95,2610.65,52,One year,DSL,0,1,1,Yes,No,No,0,0,0.0650235
+9079-LWTFD,100.75,4669.2,47,Month-to-month,Fiber optic,0,0,0,Yes,Yes,Yes,0,0,0.32827607
+7449-HVPIV,90.4,5099.15,55,Month-to-month,Fiber optic,0,1,1,Yes,No,No,0,1,0.45716593
+4729-XKASR,24.75,24.75,1,Month-to-month,DSL,0,0,1,No,No,No,1,1,0.6713199
+9689-PTNPG,80.25,144.55,2,Month-to-month,Fiber optic,0,0,0,Yes,No,No,1,1,0.8542382
+7601-GNDYK,19.6,686.95,35,Two year,No,0,1,1,Yes,No,No,0,0,0.0088722855
+1403-LKLIK,20.1,579.4,33,One year,No,0,1,1,Yes,No,No,0,0,0.009349515
+6967-QIQRV,101.9,1667.25,15,One year,Fiber optic,0,1,1,Yes,Yes,Yes,0,1,0.5099963
+1971-DTCZB,90.95,6468.6,72,Two year,DSL,0,1,0,Yes,Yes,Yes,0,0,0.007010653
+8720-RQSBJ,44.0,44.0,1,Month-to-month,DSL,1,0,0,Yes,No,No,0,1,0.7209433
+4580-TMHJU,56.15,2499.3,43,Month-to-month,DSL,0,1,1,Yes,No,No,1,0,0.35505423
+5424-RLQLC,59.65,638.95,10,Month-to-month,DSL,0,0,0,Yes,No,No,0,0,0.33204883
+6621-YOBKI,20.35,92.75,5,Month-to-month,No,0,0,0,Yes,No,No,0,0,0.18821248
+5414-OFQCB,90.45,5229.8,57,Two year,Fiber optic,0,0,0,Yes,No,Yes,0,0,0.10038867
+2979-SXESE,94.4,1607.2,17,Month-to-month,Fiber optic,0,1,1,Yes,Yes,No,1,1,0.7174369
+4983-CLMLV,102.7,5138.1,52,Month-to-month,Fiber optic,0,1,0,Yes,No,Yes,0,1,0.4410585
+4925-LMHOK,58.6,939.7,15,Month-to-month,DSL,0,0,0,Yes,No,Yes,1,0,0.23643576
+7534-BFESC,76.1,1712.7,24,Month-to-month,Fiber optic,1,0,0,Yes,No,No,1,1,0.72494555
+9574-RKJIF,94.4,2838.7,30,Month-to-month,Fiber optic,0,1,1,Yes,Yes,No,1,1,0.5613423
+8543-MSDMF,77.4,206.15,3,Month-to-month,DSL,0,0,0,Yes,Yes,No,0,0,0.41519895
+3934-HXCFZ,99.25,2186.4,23,Month-to-month,Fiber optic,0,1,0,Yes,Yes,No,1,1,0.76286393
+9142-XMYJH,19.35,601.6,29,Month-to-month,No,0,0,0,Yes,No,No,0,0,0.10792415
+9895-VFOXH,24.4,24.4,1,Month-to-month,DSL,0,0,0,No,No,No,0,1,0.5968317
+6844-DZKRF,50.2,109.25,2,Month-to-month,DSL,0,0,0,Yes,No,Yes,0,1,0.6750472
+6080-TCMYC,81.2,3292.3,40,Month-to-month,Fiber optic,0,1,1,Yes,No,No,0,1,0.6662987
+1942-OQFRW,44.0,44.0,1,Month-to-month,DSL,0,0,0,Yes,No,No,0,1,0.64885896
+0979-MOZQI,39.0,2337.45,62,Two year,DSL,0,1,0,No,No,Yes,0,0,0.029040113
+8512-WIWYV,20.35,707.5,32,One year,No,0,0,0,Yes,No,No,0,0,0.041844018
+2729-VNVAP,19.8,641.35,33,Two year,No,0,1,1,Yes,No,No,0,0,0.005283524
+8229-BUJHX,20.5,1500.95,71,Two year,No,0,1,1,Yes,No,No,0,0,0.007282221
+1494-EJZDW,20.15,220.8,10,Two year,No,0,1,1,Yes,No,No,0,0,0.016287053
+4957-TIALW,65.6,1010.0,15,One year,DSL,0,0,1,Yes,Yes,Yes,0,0,0.13713904
+2716-GFZOR,86.1,3551.65,43,Month-to-month,Fiber optic,0,1,0,Yes,Yes,No,0,0,0.24659353
+0259-GBZSH,85.65,181.5,2,Month-to-month,Fiber optic,0,0,0,Yes,No,No,1,1,0.86955917
+3387-VATUS,94.85,462.8,5,Month-to-month,Fiber optic,0,0,0,Yes,No,No,1,1,0.9224002
+5472-CVMDX,38.9,2719.2,68,Two year,DSL,0,0,0,No,Yes,Yes,0,0,0.012053933
+4432-ADRLB,44.65,74.9,2,Month-to-month,DSL,0,0,0,Yes,No,No,1,1,0.60516286
+4827-LTQRJ,110.6,7210.85,66,One year,Fiber optic,1,1,1,Yes,Yes,Yes,0,0,0.17195979
+7254-IQWOZ,69.65,69.65,1,Month-to-month,Fiber optic,0,0,0,Yes,No,No,1,1,0.9226685
+5371-VYLSX,83.4,4113.7,50,Month-to-month,Fiber optic,1,0,0,Yes,Yes,No,0,0,0.38905522
+6833-JMZYP,94.0,1505.45,15,Month-to-month,Fiber optic,0,0,0,Yes,No,No,0,1,0.6519322
+2360-RDGRO,104.25,6812.95,65,Month-to-month,Fiber optic,0,1,0,Yes,Yes,No,0,0,0.2733027
+9090-SGQXL,105.3,7299.65,68,Month-to-month,Fiber optic,1,1,0,Yes,No,No,1,1,0.48954803
+1293-BSEUN,20.7,1482.3,72,Two year,No,0,1,1,Yes,No,No,0,0,0.006260625
+4817-QRJSX,81.0,818.05,10,Month-to-month,Fiber optic,0,0,0,Yes,No,No,1,1,0.594581
+6968-MHOMU,45.0,2689.35,58,One year,DSL,0,1,0,No,No,No,0,0,0.21442027
+7577-SWIFR,89.25,89.25,1,Month-to-month,Fiber optic,0,0,0,Yes,No,No,0,1,0.9169701
+7858-GTZSP,86.55,1066.9,12,Month-to-month,Fiber optic,0,0,0,Yes,No,No,0,1,0.8150073
+0813-TAXXS,77.8,4323.35,55,Two year,DSL,0,0,0,Yes,No,No,0,0,0.03089931
+0404-SWRVG,74.4,229.55,3,Month-to-month,Fiber optic,0,0,0,Yes,No,No,1,1,0.768247
+6227-HWPWX,69.0,994.8,15,Month-to-month,Fiber optic,0,0,1,Yes,No,No,1,0,0.41634852
+6035-RIIOM,97.2,5129.45,54,Two year,Fiber optic,0,0,0,Yes,No,No,0,1,0.47878176
+0282-NVSJS,29.3,355.9,12,Month-to-month,DSL,1,1,1,No,No,Yes,0,0,0.42195964
+9700-ZCLOT,20.0,32.7,2,Month-to-month,No,0,0,0,Yes,No,No,0,0,0.27682632
+8082-GHXOP,44.0,659.35,13,Month-to-month,DSL,0,0,1,Yes,No,No,0,0,0.22153623
+0599-XNYDO,69.8,1540.35,20,Month-to-month,Fiber optic,0,1,0,Yes,No,No,0,1,0.45924592
+6115-ZTBFQ,65.5,4919.7,72,Two year,DSL,0,1,0,No,Yes,Yes,0,0,0.009801405
+4102-HLENU,65.65,4322.85,67,Two year,DSL,0,1,0,Yes,Yes,No,0,0,0.026888564
+3797-FKOGQ,86.2,893.2,11,Month-to-month,Fiber optic,0,0,1,Yes,No,No,0,1,0.6743341
+3577-AMVUX,55.05,55.05,1,Month-to-month,DSL,0,0,0,Yes,No,Yes,0,1,0.78746796
+7408-OFWXJ,89.8,6510.45,72,Two year,DSL,0,1,1,Yes,Yes,Yes,0,0,0.0074558784
+3794-NFNCH,50.0,1474.9,30,Month-to-month,DSL,0,1,0,Yes,No,No,0,0,0.2742907
+0141-YEAYS,86.45,2401.05,27,Month-to-month,Fiber optic,1,0,0,Yes,No,No,0,1,0.6647871
+6502-KUGLL,59.45,780.85,14,Month-to-month,DSL,0,1,1,Yes,Yes,Yes,0,0,0.25725988
+1895-QTKDO,43.95,43.95,1,Month-to-month,DSL,0,0,0,Yes,No,No,0,1,0.65445346
+2933-XEUJM,79.2,3593.8,46,Two year,DSL,0,0,0,Yes,Yes,No,0,0,0.024738641
+1833-VGRUM,74.2,74.2,1,Month-to-month,Fiber optic,1,0,0,Yes,No,No,1,1,0.8657456
+7963-SHNDT,39.1,1982.1,52,Two year,DSL,0,0,0,No,Yes,Yes,0,0,0.043174613
+1963-SVUCV,45.3,45.3,1,Month-to-month,DSL,0,0,0,Yes,No,No,1,1,0.6836403
+3647-GMGDH,94.7,1914.9,22,Month-to-month,Fiber optic,0,1,0,Yes,No,No,1,1,0.49976456
+0929-PECLO,89.6,5538.8,63,Month-to-month,Fiber optic,1,0,0,Yes,No,No,0,0,0.3094125
+5134-IKDAY,69.8,69.8,1,Month-to-month,Fiber optic,0,1,1,Yes,No,No,1,1,0.9016488
+9730-DRTMJ,72.8,2333.05,32,One year,DSL,0,1,0,Yes,Yes,Yes,0,0,0.12597193
+4130-MZLCC,50.55,244.75,5,Month-to-month,DSL,0,0,0,Yes,No,No,0,1,0.5216365
+8097-VBQTZ,69.9,3883.3,54,Month-to-month,DSL,0,0,0,Yes,Yes,Yes,0,0,0.09459744
+1905-OEILC,19.5,19.5,1,Month-to-month,No,0,0,0,Yes,No,No,0,1,0.49124023
+8784-CGILN,99.85,1776.95,18,Month-to-month,Fiber optic,0,0,0,Yes,No,Yes,1,1,0.63808066
+0856-NAOES,60.9,414.1,6,Month-to-month,DSL,0,0,0,Yes,No,No,0,0,0.38075465
+7551-DACSP,55.3,324.25,6,Month-to-month,DSL,0,1,1,Yes,No,No,1,1,0.4455882
+9441-QHEVC,19.1,19.1,1,Month-to-month,No,0,0,0,Yes,No,No,0,0,0.3795518
+5206-HPJKM,55.5,934.15,17,Month-to-month,DSL,0,0,0,Yes,Yes,No,0,0,0.24243954
+7903-CMPEY,80.3,80.3,1,Month-to-month,Fiber optic,1,1,0,Yes,Yes,No,1,1,0.8574313
+7363-QTBIW,79.75,769.1,9,Month-to-month,Fiber optic,0,1,0,Yes,No,No,0,1,0.7530351
+2925-VDZHY,88.7,6501.35,72,Two year,DSL,0,1,1,Yes,Yes,Yes,0,0,0.0075457734
+8182-PNAGI,50.25,593.75,12,Month-to-month,DSL,0,0,0,Yes,No,Yes,1,0,0.20381813
+1839-FBNFR,19.85,854.8,39,Two year,No,0,1,1,Yes,No,No,0,0,0.006270479
+6522-YRBXD,94.55,3365.4,35,Month-to-month,Fiber optic,1,1,0,Yes,Yes,No,0,1,0.44892332
+5954-BDFSG,107.5,7853.7,72,Two year,Fiber optic,0,0,0,Yes,No,Yes,0,0,0.050203152
+2858-MOFSQ,55.85,937.5,17,One year,DSL,0,0,1,Yes,No,No,1,0,0.112987615
+0229-LFJAF,69.65,4908.25,72,Two year,DSL,0,0,0,Yes,Yes,Yes,0,0,0.010623394
+7346-MEDWM,83.25,4949.1,59,Month-to-month,Fiber optic,0,0,0,Yes,No,No,0,0,0.3395243
+0665-XHDJU,99.4,7285.7,72,Two year,Fiber optic,0,1,0,Yes,No,No,0,0,0.12925816
+7426-WEIJX,80.95,4859.1,60,Month-to-month,Fiber optic,1,1,1,Yes,Yes,No,0,0,0.3172826
+6904-JLBGY,117.35,8436.25,72,Two year,Fiber optic,1,0,0,Yes,Yes,Yes,0,0,0.026344746
+7758-XKCBS,29.7,438.25,15,Month-to-month,DSL,0,0,0,No,No,Yes,1,0,0.31559065
+8819-WFGGJ,54.1,3794.5,68,Two year,DSL,0,1,0,No,Yes,No,0,0,0.026745798
+8089-UZWLX,104.05,7413.55,71,Two year,Fiber optic,1,0,0,Yes,No,No,0,0,0.08424214
+7544-ZVIKX,105.05,6004.85,58,One year,Fiber optic,0,1,1,Yes,No,Yes,0,0,0.39858952
+8761-NSOBC,100.55,4398.15,44,Month-to-month,Fiber optic,0,0,0,Yes,No,Yes,1,0,0.3863541
+9866-OCCKE,109.75,8075.35,72,Two year,Fiber optic,1,1,0,Yes,Yes,Yes,0,0,0.011380519
+3283-WCWXT,25.4,153.3,6,Two year,No,0,1,1,Yes,No,No,0,0,0.016222509
+6278-FEPBZ,20.25,186.15,9,Month-to-month,No,0,0,0,Yes,No,No,0,0,0.22330843
+9800-OUIGR,20.0,1374.2,66,Two year,No,0,1,1,Yes,No,No,0,0,0.009773736
+1918-ZBFQJ,79.25,1111.65,13,Month-to-month,Fiber optic,0,0,0,Yes,No,No,1,1,0.7339502
+8875-AKBYH,84.35,1745.2,20,Month-to-month,Fiber optic,1,0,0,Yes,No,No,0,1,0.7799217
+3308-MHOOC,19.2,19.2,1,Month-to-month,No,0,0,1,Yes,No,No,0,1,0.6076065
+2233-FAGXV,24.3,132.25,5,Month-to-month,No,0,1,1,Yes,No,No,0,0,0.28378308
+3720-DBRWL,83.85,4307.1,51,Two year,DSL,0,1,0,Yes,Yes,Yes,0,0,0.026801245
+5301-GAUUY,80.35,2596.15,32,Month-to-month,Fiber optic,0,0,0,Yes,No,No,1,1,0.5717348
+6481-OGDOO,90.6,6056.15,67,One year,Fiber optic,0,1,0,Yes,Yes,No,1,0,0.17503971
+8612-GXIDD,25.4,313.0,12,Two year,No,0,1,1,Yes,No,No,0,0,0.02439477
+5022-KVDQT,81.3,2272.8,27,Month-to-month,Fiber optic,0,0,0,Yes,No,No,0,1,0.7154993
+0575-CUQOV,97.95,5867.0,60,One year,Fiber optic,1,1,0,Yes,No,No,0,1,0.44440702
+2937-FTHUR,64.8,1166.7,18,Month-to-month,DSL,0,0,1,Yes,Yes,No,0,0,0.43243256
+6168-WFVVF,70.3,235.5,3,Month-to-month,Fiber optic,1,0,0,Yes,No,No,1,1,0.6881521
+0761-AETCS,19.3,19.3,1,Month-to-month,No,0,0,0,Yes,No,No,1,0,0.43087494
+9818-XQCUV,20.35,45.3,2,Month-to-month,No,0,0,0,Yes,No,No,0,0,0.25612238
+5640-CAXOA,40.35,1187.05,30,One year,DSL,0,0,0,No,No,Yes,0,0,0.11767531
+5945-AZYHT,109.6,7854.15,71,One year,Fiber optic,0,1,0,Yes,Yes,No,0,0,0.23959571
+6198-RTPMF,92.6,1579.7,17,Month-to-month,Fiber optic,0,1,0,Yes,No,No,0,1,0.73175293
+0225-ZORZP,84.3,235.05,3,Month-to-month,Fiber optic,0,0,0,Yes,No,No,0,1,0.68666214
+6582-OIVSP,45.3,45.3,1,Month-to-month,DSL,0,0,0,Yes,No,No,0,1,0.6436715
+7872-RDDLZ,54.9,3725.5,67,Month-to-month,DSL,1,0,0,Yes,No,No,0,0,0.16725554
+2040-OBMLJ,81.7,2548.65,31,One year,Fiber optic,0,0,0,Yes,No,Yes,0,0,0.13123822
+2692-BUCFV,101.45,2948.6,29,Month-to-month,Fiber optic,1,0,0,Yes,No,No,0,1,0.6373977
+2479-BRAMR,83.75,3273.55,41,Month-to-month,Fiber optic,1,1,0,Yes,Yes,No,1,0,0.43964875
+6416-YJTTB,79.5,795.65,11,Month-to-month,Fiber optic,0,0,0,Yes,Yes,No,0,1,0.48022804
+7217-JYHOQ,70.3,1706.45,24,Month-to-month,DSL,0,1,1,Yes,Yes,Yes,0,0,0.14123519
+3255-GRXMG,45.65,747.2,18,Month-to-month,DSL,0,0,1,Yes,No,No,0,0,0.24254721
+5522-NYKPB,85.9,2199.05,25,Month-to-month,Fiber optic,0,1,1,Yes,No,Yes,0,0,0.43139026
+0749-IRGQE,45.3,528.45,13,Month-to-month,DSL,1,1,0,No,No,No,0,1,0.65133923
+4806-KEXQR,79.9,324.3,4,Month-to-month,Fiber optic,0,0,0,Yes,No,No,1,1,0.8366917
+3689-MOZGR,31.2,926.2,29,Month-to-month,DSL,0,0,0,No,No,Yes,0,0,0.3112307
+1813-JYWTO,80.45,5737.6,72,Two year,Fiber optic,0,1,0,Yes,Yes,No,0,0,0.011124625
+1403-GYAFU,20.05,1360.25,70,Two year,No,0,1,1,Yes,No,No,0,0,0.01062199
+5696-CEIQJ,103.15,6895.5,67,Two year,Fiber optic,0,1,1,Yes,No,Yes,0,0,0.0760877
+7929-DMBCV,81.0,1683.7,20,Month-to-month,Fiber optic,0,1,0,Yes,No,Yes,0,0,0.34850353
+5223-UZAVK,100.3,6603.8,64,One year,Fiber optic,0,0,0,Yes,Yes,No,0,0,0.20089564
+6240-EURKS,35.0,553.0,18,Month-to-month,DSL,0,0,1,No,No,No,1,0,0.43390495
+3716-UVSPD,49.3,49.3,1,Month-to-month,DSL,0,0,0,Yes,No,Yes,0,1,0.6728148
+6656-GULJQ,83.55,6093.3,72,Two year,DSL,0,1,1,Yes,Yes,Yes,0,0,0.010425189
+8402-EIVQS,100.9,6733.15,67,One year,Fiber optic,0,1,0,Yes,Yes,No,0,0,0.23802371
+3164-AALRN,70.0,347.4,5,One year,DSL,0,0,0,Yes,No,No,1,0,0.25664234
+0733-VUNUW,55.65,1400.55,24,Month-to-month,DSL,0,0,0,Yes,Yes,No,1,0,0.17223048
+1074-WVEVG,20.35,1267.0,59,One year,No,0,1,0,Yes,No,No,0,0,0.025148675
+0835-JKADZ,111.25,7984.15,71,Two year,Fiber optic,0,0,0,Yes,No,Yes,0,0,0.077631555
+9747-DDZOS,73.5,73.5,1,Month-to-month,Fiber optic,0,0,0,Yes,No,No,1,1,0.88766223
+7168-HDQHG,19.2,702.9,36,Month-to-month,No,0,1,1,Yes,No,No,0,0,0.09085533
+9945-PSVIP,18.7,383.65,25,Two year,No,0,1,1,Yes,No,No,0,0,0.016119814
+7326-RIGQZ,69.8,377.85,6,Month-to-month,Fiber optic,0,1,1,Yes,No,No,0,1,0.68008566
+1357-BIJKI,98.25,4858.7,50,One year,Fiber optic,0,1,0,Yes,No,No,0,1,0.44406623
+0137-UDEUO,19.85,63.75,3,Month-to-month,No,0,0,0,Yes,No,No,1,0,0.31840345
+6691-CCIHA,84.95,5150.55,62,Two year,DSL,0,1,0,Yes,Yes,Yes,0,0,0.030669792
+2672-HUYVI,91.1,455.3,6,Month-to-month,Fiber optic,0,0,0,Yes,No,No,1,1,0.8153481
+1814-DKOLC,25.45,134.75,5,Month-to-month,No,0,0,0,Yes,No,No,0,0,0.32050398
+0862-PRCBS,103.75,7039.45,68,Two year,Fiber optic,0,1,1,Yes,No,Yes,0,0,0.06975695
+4994-OBRSZ,76.1,1054.8,14,Two year,DSL,0,0,1,Yes,Yes,Yes,0,0,0.018471552
+6267-DCFFZ,90.05,2627.2,30,Month-to-month,Fiber optic,1,1,0,Yes,No,No,0,1,0.76225775
+5982-FPVQN,95.15,3532.85,37,Month-to-month,Fiber optic,0,1,1,Yes,No,No,0,1,0.59985644
+3655-SNQYZ,113.25,7895.15,69,Two year,Fiber optic,0,1,1,Yes,Yes,Yes,0,0,0.17202206
+9717-IOAAF,25.85,788.55,27,Two year,No,0,0,1,Yes,No,No,0,0,0.016647467
+5027-YOCXN,110.05,5686.4,51,One year,Fiber optic,0,1,1,Yes,Yes,Yes,0,0,0.3920981
+0567-GGCAC,61.4,438.9,7,Month-to-month,DSL,0,0,0,Yes,Yes,No,0,0,0.3479238
+8292-TYSPY,55.0,1046.5,19,Month-to-month,DSL,0,0,0,Yes,No,Yes,1,0,0.2808399
+6479-OAUSD,19.9,510.8,25,One year,No,0,0,0,Yes,No,No,0,0,0.025557106
+2924-KHUVI,100.55,5514.95,56,One year,Fiber optic,0,1,0,Yes,Yes,No,0,0,0.3586754
+6569-KTMDU,19.1,19.1,1,Month-to-month,No,0,0,0,Yes,No,No,0,0,0.38451666
+2197-OMWGI,53.0,3656.25,68,Two year,DSL,1,1,1,No,No,No,0,0,0.12453024
+4238-HFHSN,82.15,4904.85,61,Month-to-month,Fiber optic,1,1,0,Yes,No,No,0,0,0.42853522
+2007-QVGAW,19.35,1292.65,68,Two year,No,0,1,1,Yes,No,No,0,0,0.022644034
+0040-HALCW,20.4,1090.6,54,Two year,No,0,1,1,Yes,No,No,0,0,0.045149576
+7767-UXAGJ,50.45,50.45,1,Month-to-month,DSL,0,0,0,Yes,No,No,1,1,0.7906508
+1015-OWJKI,19.05,19.05,1,Month-to-month,No,0,0,0,Yes,No,No,0,0,0.3795518
+3338-CVVEH,94.55,1173.55,12,Month-to-month,Fiber optic,0,0,0,Yes,No,No,0,1,0.75714844
+6933-FHBZC,56.05,1553.2,26,One year,DSL,0,0,0,Yes,No,No,0,0,0.10302416
+4118-CEVPF,110.8,3836.3,35,One year,Fiber optic,1,0,0,Yes,Yes,Yes,0,0,0.39347923
+5884-FBCTL,25.1,1857.85,72,Two year,No,0,1,1,Yes,No,No,0,0,0.0059753037
